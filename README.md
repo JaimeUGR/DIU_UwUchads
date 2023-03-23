@@ -25,6 +25,8 @@ Miembros
 ## Paso 1. UX Desk Research & Analisis 
 
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
+-----
+
 Hemos hecho una comparación entre los principales resultados al buscar por Internet Tours gratis por Granada. La comparación se ha realizado entre:
 - [FreeTour](https://freetour-granada.com/)
 - [BuendiaTours](https://buendiatours.com/es/granada)
@@ -36,13 +38,31 @@ la mejor opción es [BuendiaTours](https://buendiatours.com/es/granada), tanto p
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+Las personas elegidas representan los dos colectivos principales de usuarios que utilizarán este producto.
+
+### Josefina
+Josefina es una persona mayor, residente en Granada, que está jubilada y, ahora que tiene más tiempo libre, quiere disfrutar una experiencia
+nueva. Por ese motivo, ha decicido reservar para participar en un tour, ya que ella siempre ha estado interesada en este tipo de actividades.
+
+[Josefina]()
+
+### Manuel
+Manuel es una persona que no vive en Granada, sino en Tarragona, Çataluña. Quiere sorprender a su familia con un pequeño viaje para conocer un lugar
+turístico, por lo que está intentando reservar un tour a través de Internet.
+Sin embargo, debido a la discapacidad motora de Manuel, es muy importante conocer de antemano si podrá realizar el tour.
+
+[Manuel]()
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
+La experiencia de Josefina es la más cercana a la que cualquier persona mayor que acceda a esta página tendrá que sufrir.
+[Josefina]()
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+La experiencia de Manuel es muy cercana a la que experimentará:
+- Una persona que debido a su discapacidad no sabe si puede realizar el Tour
+- Una persona que no es de Granada
+[Manuel]()
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
