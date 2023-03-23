@@ -46,7 +46,12 @@ Los principales factores negativos son:
 Todo esto ha resultado en una valoración de 46, que implica que la mayor parte de usuarios tendrán una experiencia negativa en esta página.
 
 ## Conclusiones
-Nuestra conclusión es que la experiencia se puede mejorar en gran medida de forma relativamente sencilla.
-Tales mejoras repercutirían directamente en una mejor experiencia para cualquier colectivo interesado en realizar un tour por Granada como
-en la posición de FreeTour frente a sus competidores.
+Nuestra conclusión es que la página web presenta muchas deficiencias de fácil resolución, que impiden una buena experiencia por parte del usuario final.
+
+Como hemos mencionado anteriormente, se debería evitar la redirección a múltiples páginas cuando una persona quiera reservar un tour, ya que eso provoca confusión e incluso inseguridad, debido a los cambios de estilo, tipografía, etc.
+
+La adaptación a dispositivos móviles, fundamental hoy en día, ya que la mayoría de usuarios que encuentren la página por primera vez estarán utilizando un dispositivo móvil, deja mucho que desear en su estado actual, ya que encontramos solapamiento de botones, mala visibilidad, etc.
+
+Por lo tanto, consideramos que hay fallos muy básicos, que provocarán que los usuarios se decanten por los competidores que sí han cuidado la experiencia global.
+
 
