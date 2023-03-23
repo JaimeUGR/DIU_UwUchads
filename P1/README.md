@@ -24,13 +24,13 @@ la accesibilidad de los recursos para personas con algún tipo de problema / dis
 
 ### Josefina
 asd
-<img align="center" src="./P1/Persona_Fran.png" alt="Persona Josefina"/>
-<img align="center" src="./P1/JourneyMap_Fran.png" alt="Journey Persona Josefina"/>
+<img align="center" src="./Persona_Fran.png" alt="Persona Josefina"/>
+<img align="center" src="./JourneyMap_Fran.png" alt="Journey Persona Josefina"/>
 
 ### Manuel
 asd
-<img align="center" src="./P1/PersonaJaime.png" alt="Persona Manuel"/>
-<img align="center" src="./P1/PersonaJaimeJourney.png" alt="Journey Persona Manuel"/>
+<img align="center" src="./PersonaJaime.png" alt="Persona Manuel"/>
+<img align="center" src="./PersonaJaimeJourney.png" alt="Journey Persona Manuel"/>
 
 
 ## Usabilidad
