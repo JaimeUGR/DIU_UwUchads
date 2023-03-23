@@ -72,11 +72,17 @@ La experiencia de Manuel es muy cercana a la que experimentará:
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+En al análisis de usabilidad hemos podido comprobar que la página web falla en los aspectos clave relacionados con el proceso de reserva, algo
+que perjudica en gran medida la experiencia del usuario final.
+
+Los principales factores negativos son:
+- El rendimiento de la página es horrible
+- Las múltiples redirecciones durante el proceso de reserva hacen que te pierdas
+- No hay información detallada sobre los tours
+- En dispositivos móviles la página web tiene problemas
+
+Todo esto ha resultado en una valoración de 46 (sobre 100), que implica que la mayor parte de usuarios tendrán una experiencia negativa en esta página,
+al igual que nosotros la hemos tenido.
 
 
 ## Paso 2. UX Design  
