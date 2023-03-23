@@ -44,27 +44,31 @@ Las personas elegidas representan los dos colectivos principales de usuarios que
 Josefina es una persona mayor, residente en Granada, que está jubilada y, ahora que tiene más tiempo libre, quiere disfrutar una experiencia
 nueva. Por ese motivo, ha decicido reservar para participar en un tour, ya que ella siempre ha estado interesada en este tipo de actividades.
 
-[Josefina](P1/Persona_Fran.png)
+<img align="center" src="./P1/Persona_Fran.png" alt="Persona Josefina"/>
 
 ### Manuel
 Manuel es una persona que no vive en Granada, sino en Tarragona, Çataluña. Quiere sorprender a su familia con un pequeño viaje para conocer un lugar
 turístico, por lo que está intentando reservar un tour a través de Internet.
 Sin embargo, debido a la discapacidad motora de Manuel, es muy importante conocer de antemano si podrá realizar el tour.
 
-[Manuel](P1/PersonaJaime.png)
+<img align="center" src="./P1/PersonaJaime.png" alt="Persona Manuel"/>
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
 ### Josefina
 La experiencia de Josefina es la más cercana a la que cualquier persona mayor que acceda a esta página tendrá que sufrir.
-[Josefina](P1/JourneyMap_Fran.png)
+
+<img align="center" src="./P1/JourneyMap_Fran.png" alt="Journey Persona Josefina"/>
+
 
 ### Manuel
 La experiencia de Manuel es muy cercana a la que experimentará:
 - Una persona que debido a su discapacidad no sabe si puede realizar el Tour
 - Una persona que no es de Granada
-[Manuel](P1/PersonaJaimeJourney.png)
+
+<img align="center" src="./P1/PersonaJaimeJourney.png" alt="Journey Persona Manuel"/>
+
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
