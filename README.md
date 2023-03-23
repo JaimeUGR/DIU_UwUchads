@@ -20,19 +20,18 @@ Miembros
 
 ----- 
 
-
-
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
-
-
 # Proceso de Diseño 
 
 ## Paso 1. UX Desk Research & Analisis 
 
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
------
+Hemos hecho una comparación entre los principales resultados al buscar por Internet Tours gratis por Granada. La comparación se ha realizado entre:
+- [FreeTour](https://freetour-granada.com/)
+- [BuendiaTours](https://buendiatours.com/es/granada)
+- [WalkInGranada](https://walkingranada.com/)
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+De la comparación hemos sacado como conclusión que FreeTour está muy por detrás de los competidores y que, si lo que buscas es un tour por Granada,
+la mejor opción es [BuendiaTours](https://buendiatours.com/es/granada), tanto por la calidad de la página web como por las actividades ofrecidas.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
