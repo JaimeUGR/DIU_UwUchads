@@ -33,9 +33,6 @@ Josefina es una persona mayor, residente en Granada, que está jubilada y, ahora
 Manuel es una persona que no vive en Granada, sino en Tarragona, Çataluña. Quiere sorprender a su familia con un pequeño viaje para conocer un lugar turístico, por lo que está intentando reservar un tour a través de Internet. Sin embargo, debido a la discapacidad motora de Manuel, es muy importante conocer de antemano si podrá realizar el tour.
 <img align="center" src="./Persona_Manuel.png" alt="Persona Manuel"/>
 
-
-
-
 ## Journey Maps
 ### Josefina
 <img align="center" src="./Journey_Josefina.png" alt="Journey Persona Josefina"/>
@@ -47,11 +44,16 @@ durante la selección de los tours, ya que, se muestra un precio en el tour pero
 Debido a esto, ha necesitado la ayuda de su hijo para poder completar la reserva, ya que se sentía muy perdida.
 
 ### Manuel
-
 <img align="center" src="./Journey_Manuel.png" alt="Journey Persona Manuel"/>
 
+Como conclusión del Journey Map de Manuel, podemos observar que la falta de información respecto a los requisitos de los tours
+en lo que concierne a las personas discapacitadas, ha provocado que se sienta excluído. Como consecuencia, ha decidido abandonar
+la página web.
+
+
 ## Usabilidad
-En al análisis de usabilidad hemos podido comprobar que la página web falla en los aspectos clave relacionados con el proceso de reserva, algo
+En al análisis de usabilidad de la página web [FreeTour](https://freetour-granada.com/) hemos observado
+múltiples fallos en los aspectos clave relacionados con el proceso de reserva, algo
 que perjudica en gran medida la experiencia del usuario final.
 
 Los principales factores negativos son:
