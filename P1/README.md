@@ -29,16 +29,26 @@ la accesibilidad de los recursos para personas con algún tipo de problema / dis
 Josefina es una persona mayor, residente en Granada, que está jubilada y, ahora que tiene más tiempo libre, quiere disfrutar una experiencia nueva. Por ese motivo, ha decicido reservar para participar en un tour, ya que ella siempre ha estado interesada en este tipo de actividades.
 <img align="center" src="./Persona_Josefina.png" alt="Persona Josefina"/>
 
-
-<img align="center" src="./Journey_Josefina.png" alt="Journey Persona Josefina"/>
-
 ### Manuel
 Manuel es una persona que no vive en Granada, sino en Tarragona, Çataluña. Quiere sorprender a su familia con un pequeño viaje para conocer un lugar turístico, por lo que está intentando reservar un tour a través de Internet. Sin embargo, debido a la discapacidad motora de Manuel, es muy importante conocer de antemano si podrá realizar el tour.
 <img align="center" src="./Persona_Manuel.png" alt="Persona Manuel"/>
 
 
-<img align="center" src="./Journey_Manuel.png" alt="Journey Persona Manuel"/>
 
+
+## Journey Maps
+### Josefina
+<img align="center" src="./Journey_Josefina.png" alt="Journey Persona Josefina"/>
+
+Como conclusión del Journey Map de Josefina, podemos observar que las redirecciones a otras páginas durante el proceso de
+reserva, han provocado que Josefina se sienta confundida e insegura. A esto, se le suma el fallo de diseño que se produce
+durante la selección de los tours, ya que, se muestra un precio en el tour pero pone que es gratis, lo que confunde aún más a Josefina.
+
+Debido a esto, ha necesitado la ayuda de su hijo para poder completar la reserva, ya que se sentía muy perdida.
+
+### Manuel
+
+<img align="center" src="./Journey_Manuel.png" alt="Journey Persona Manuel"/>
 
 ## Usabilidad
 En al análisis de usabilidad hemos podido comprobar que la página web falla en los aspectos clave relacionados con el proceso de reserva, algo
