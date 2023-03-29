@@ -50,6 +50,9 @@ Como conclusión del Journey Map de Manuel, podemos observar que la falta de inf
 en lo que concierne a las personas discapacitadas, ha provocado que se sienta excluído. Como consecuencia, ha decidido abandonar
 la página web.
 
+Además, la ayuda automática no ha sido capaz de resolver las cuestiones más básicas posibles, por lo que, debido a esas limitaciones,
+la experiencia ha sido aún peor.
+
 
 ## Usabilidad
 En al análisis de usabilidad de la página web [FreeTour](https://freetour-granada.com/) hemos observado
