@@ -1,5 +1,8 @@
 # DIU - Practica1, entregables
 
+En esta primera práctica, hemos realizado el análisis de usabilidad sobre la página web [FreeTour](https://freetour-granada.com/).
+Los resultados de dicho análisis y, las conclusiones obtenidas, se han detallado en los apartados inferiores.
+
 ## Empathy Maps
 Hemos realizado dos empathy maps, uno con nuestra experiencia y otro con la experiencia de nuestras
 personas, que representan a los colectivos principales que utilizarán la página web.
@@ -25,11 +28,15 @@ la accesibilidad de los recursos para personas con algún tipo de problema / dis
 ### Josefina
 Josefina es una persona mayor, residente en Granada, que está jubilada y, ahora que tiene más tiempo libre, quiere disfrutar una experiencia nueva. Por ese motivo, ha decicido reservar para participar en un tour, ya que ella siempre ha estado interesada en este tipo de actividades.
 <img align="center" src="./Persona_Fran.png" alt="Persona Josefina"/>
+
+
 <img align="center" src="./JourneyMap_Fran.png" alt="Journey Persona Josefina"/>
 
 ### Manuel
 Manuel es una persona que no vive en Granada, sino en Tarragona, Çataluña. Quiere sorprender a su familia con un pequeño viaje para conocer un lugar turístico, por lo que está intentando reservar un tour a través de Internet. Sin embargo, debido a la discapacidad motora de Manuel, es muy importante conocer de antemano si podrá realizar el tour.
 <img align="center" src="./PersonaJaime.png" alt="Persona Manuel"/>
+
+
 <img align="center" src="./PersonaJaimeJourney.png" alt="Journey Persona Manuel"/>
 
 
