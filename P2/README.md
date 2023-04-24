@@ -2,8 +2,8 @@
 
 ### Ideación 
 * Malla receptora de información 
-* Mapa de empatía
-* Point of View 
+Para poder plantear nuestro proyecto, en primer lugar, hemos realizado una malla receptora de información la cual se basa en los siguientes cuatro aspectos:
+  -
 
 
 ### PROPUESTA DE VALOR
