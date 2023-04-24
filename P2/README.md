@@ -1,6 +1,8 @@
-## DIU - Practica2, entregables
+# DIU - Practica2, entregables
 
-### Ideación 
+## Idea
+
+### Malla receptora de información
 * Malla receptora de información 
 Para poder plantear nuestro proyecto, en primer lugar, hemos realizado una malla receptora de información la cual se basa en los siguientes cuatro aspectos:
   - Like: En este apartado recabamos todas la ideas e implementaciones utilizadas por la competencia que más nos han gustado y que creemos que deben estar presente en
@@ -8,24 +10,24 @@ Para poder plantear nuestro proyecto, en primer lugar, hemos realizado una malla
   - Wishes: En este apart
 
 
-### PROPUESTA DE VALOR
+### Propuesta de valor
 * ScopeCanvas
 
 
-### TASK ANALYSIS
+### Análisis de tareas
 
 * User Task Matrix 
 * User/Task flow
 
 
-### ARQUITECTURA DE INFORMACIÓN
+### Arquitectura de información
 
 * Sitemap 
 * Labelling 
 
 
-### Prototipo Lo-FI Wireframe 
+### Bocetos Lo-Fi
 
 
 ### Conclusiones  
-(incluye valoración de esta etapa)
+
