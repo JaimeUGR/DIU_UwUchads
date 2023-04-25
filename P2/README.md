@@ -68,7 +68,27 @@ A continuación, detallamos todos los apartados que aparecen en nuestro sitemap:
 <img align="center" src="./Labelling.png" alt="Sitemap Labelling"/>
 
 ### Bocetos Lo-Fi
+Hemos creado una serie de bocetos Lo-Fi, que nos han permitido esquematizar el diseño de la página web, donde hemos destacado las partes más importantes:
+- Home (Landing Page)
+- Catálogo
+- Lista de actividades de una categoría específica
+- Información actividad + Reserva
 
+Cabe destacar que estos bocetos son puramente ilustrativos y no pretenden mostrar el estilo final de la página.
+
+#### Home
+<img align="center" src="./BocetoHome.png" alt="Boceto Home"/>
+
+#### Catálogo General
+<img align="center" src="./BocetoCatalogo.png" alt="Boceto Catálogo"/>
+
+#### Catálogo de Tours
+<img align="center" src="./BocetoListaTours.png" alt="Boceto Lista de Tours"/>
+
+#### Reserva de Tour
+<img align="center" src="./BocetoReservaTour.png" alt="Boceto Reserva de Tour"/>
 
 ### Conclusiones  
+Finalmente, consideramos que hemos logrado complacer todas las expectativas y necesidades de los usuarios, puesto que, hemos tenido en cuenta a grupos de personas de cualquier tipo, tengan distinta edad, alguna discapacidad etc, para crear una aplicación que les permita disfrutar de actividades por Granada.
 
+Gracias a eso, hemos desarrollado un layout limpio, que cumple su función, de forma rápida y eficiente, minimizando los puntos negativos de los competidores y maximizando la experiencia de los usuarios.
