@@ -83,7 +83,7 @@ Cabe destacar que estos bocetos son puramente ilustrativos y no pretenden mostra
 <img align="center" src="./BocetoCatalogo.png" alt="Boceto Catálogo"/>
 
 #### Catálogo de Tours
-<img align="center" src="./BocetoListaTours.png" alt="Boceto Lista de Tours"/>
+<img align="center" src="./BocetoCatalogoTours.png" alt="Boceto Lista de Tours"/>
 
 #### Reserva de Tour
 <img align="center" src="./BocetoReservaTour.png" alt="Boceto Reserva de Tour"/>
