@@ -30,7 +30,7 @@ Estos problemas los solucionaremos en conjunto, es decir, facilitaremos el proce
 Para gestionar nuestra propuesta, hemos hecho un roadmap, donde hemos especificado una serie de objetivos a corto, medio y largo plazo. Dichos objetivos se resumen en:
 - A corto plazo nos gustaría tener una aplicación móvil integrada con la aplicación, ya que, de esta forma, facilitaríamos la expansión en múltiples plataformas al mismo tiempo. Por otro lado, el sistema de recomendaciones personalizadas y el perfil de usuario son fundamentales para lograr la interacción e implicación que buscamos entre los usuarios. También, la realización de actividades únicas (tales como eventos), ayudarán a atraer nuevos usuarios.
 - A medio plazo nos gustaría incorporar un servicio de ayuda automático en nuestra aplicación, que sea capaz de guiarte si te has perdido.
-- A largo plazo nos gustaría realizar contratos y colaboraciones con grandes marcas y empresas, de forma que podamos expandir el rango de nuestras actividades de Granda a un ámbito nacional e internacional.
+- A largo plazo nos gustaría realizar contratos y colaboraciones con grandes marcas y empresas, de forma que podamos expandir el rango de nuestras actividades de Granada a un ámbito nacional e internacional.
 
 <img align="center" src="./ScopeCanvas.png" alt="Scope Canvas"/>
 
@@ -39,7 +39,7 @@ Para gestionar nuestra propuesta, hemos hecho un roadmap, donde hemos especifica
 Para analizar las tareas de nuestros usuarios, hemos decidido crear una Task Matrix.
 
 De esta forma, hemos representado las acciones principales que todo tipo de usuario tendrá, categorizado en 4 grupos:
-- Usuario buscando una actividad: estos usuarios pueden estar o no registrados, siendo su principal interés es encontrar una actividad que realizar.
+- Usuario buscando una actividad: estos usuarios pueden estar o no registrados, siendo su principal interés el encontrar una actividad que realizar.
 - Usuario antes de realizar una actividad: estos usuarios ya han reservado una actividad (o están en proceso), siendo su principal interés informarse y compartirla con sus amigos.
 - Usuario durante la realización de una actividad: estos usuarios están realizando una actividad, siendo su principal interés compartir lo que están haciendo.
 - Usuario tras la realización de una actividad: estos usuarios han terminado una actividad, siendo su principal interés encontrar nuevas actividades que realizar, utilizando los buscadores y mirando las recomendaciones.
@@ -52,13 +52,13 @@ De esta forma, hemos conseguido localizar las actividades más importantes (subr
 ### Arquitectura de información
 
 #### Sitemap 
-Nuestro sitemap agrupa la funcionalidad principal del sistema, en diversos apartados, de forma que el usuario pueda elegir el más incidado para lo que está buscando. Además, la parte relacionada con el contacto y la gestión del perfil están reservadas para sus apartados correspondientes.
+Nuestro sitemap agrupa la funcionalidad principal del sistema, en diversos apartados, de forma que el usuario pueda elegir el más indicado para lo que está buscando. Además, la parte relacionada con el contacto y la gestión del perfil están reservadas para sus apartados correspondientes.
 
 <img align="center" src="./Sitemap.png" alt="Sitemap"/>
 
 Este diseño lo hemos orientado de forma que el usuario tenga la mayor facilidad posible para:
 - Buscar las actividades que quiere
-- Perderse por el catálogo buscando actividades
+- Sumergirse en el catálogo buscando actividades
 - Reservar rápidamente
 - Gestionar su perfil de forma cómoda y sencilla
 
