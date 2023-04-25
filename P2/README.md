@@ -51,9 +51,21 @@ De esta forma, hemos conseguido localizar las actividades más importantes (subr
 
 ### Arquitectura de información
 
-* Sitemap 
-* Labelling 
+#### Sitemap 
+Nuestro sitemap agrupa la funcionalidad principal del sistema, en diversos apartados, de forma que el usuario pueda elegir el más incidado para lo que está buscando. Además, la parte relacionada con el contacto y la gestión del perfil están reservadas para sus apartados correspondientes.
 
+<img align="center" src="./Sitemap.png" alt="Sitemap"/>
+
+Este diseño lo hemos orientado de forma que el usuario tenga la mayor facilidad posible para:
+- Buscar las actividades que quiere
+- Perderse por el catálogo buscando actividades
+- Reservar rápidamente
+- Gestionar su perfil de forma cómoda y sencilla
+
+#### Labelling 
+A continuación, detallamos todos los apartados que aparecen en nuestro sitemap:
+
+<img align="center" src="./Labelling.png" alt="Sitemap Labelling"/>
 
 ### Bocetos Lo-Fi
 
