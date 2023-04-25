@@ -36,9 +36,17 @@ Para gestionar nuestra propuesta, hemos hecho un roadmap, donde hemos especifica
 
 
 ### Análisis de tareas
+Para analizar las tareas de nuestros usuarios, hemos decidido crear una Task Matrix.
 
-* User Task Matrix 
-* User/Task flow
+De esta forma, hemos representado las acciones principales que todo tipo de usuario tendrá, categorizado en 4 grupos:
+- Usuario buscando una actividad: estos usuarios pueden estar o no registrados, siendo su principal interés es encontrar una actividad que realizar.
+- Usuario antes de realizar una actividad: estos usuarios ya han reservado una actividad (o están en proceso), siendo su principal interés informarse y compartirla con sus amigos.
+- Usuario durante la realización de una actividad: estos usuarios están realizando una actividad, siendo su principal interés compartir lo que están haciendo.
+- Usuario tras la realización de una actividad: estos usuarios han terminado una actividad, siendo su principal interés encontrar nuevas actividades que realizar, utilizando los buscadores y mirando las recomendaciones.
+
+<img align="center" src="./TaskMatrix.png" alt="Task Matrix"/>
+
+De esta forma, hemos conseguido localizar las actividades más importantes (subrayadas en negrita), que formarán parte del uso habitual de los usuarios.
 
 
 ### Arquitectura de información
