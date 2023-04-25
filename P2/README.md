@@ -1,17 +1,38 @@
-# DIU - Practica2, entregables
+# DIU - Practica 2 - Entregables
 
 ## Idea
+Nuestra idea se basa en la creación de una aplicación donde no sólo se puedan realizar tours, sino que se puedan realizar todo tipo de actividades 
+por Granada. Así, surge nuestra propuesta, **Conecta Granada**.
+
 
 ### Malla receptora de información
-* Malla receptora de información 
-Para poder plantear nuestro proyecto, en primer lugar, hemos realizado una malla receptora de información la cual se basa en los siguientes cuatro aspectos:
+Para poder plantear nuestro proyecto, en primer lugar, hemos realizado una malla receptora de información, mediante la cual, hemos observado cuatro aspectos:
   - Like: En este apartado recabamos todas la ideas e implementaciones utilizadas por la competencia que más nos han gustado y que creemos que deben estar presente en
   nuestro proyecto.
-  - Wishes: En este apart
+  - Wishes: En este apartartado hemos incluido todas las críticas que tenemos sobre la competencia, y que creemos que pueden mejorarse / solucionarse.
+  - Questions: Este apartado representa las preguntas que nuestras personas ficticias se han realizado durante su experiencia en la competencia.
+  - Ideas: Teniendo en cuenta lo anterior, en este apartado hemos incluido ideas que podemos implementar para mejorar el sitio.
 
+<img align="center" src="./FeedbackCaptureGrid.png" alt="Feedback Capture Grid"/>
 
 ### Propuesta de valor
-* ScopeCanvas
+Nuestra propuesta se trata de una aplicación sencilla, que agrupa todo tipo de actividades culturales en Granada. De esta forma, tanto el proceso de búsqueda
+como de reserva estarán simplificados, ya que el usuario no tendrá que recurrir a agencias o buscar en miles de páginas.
+Por otro lado, creemos que la capacidad de interacción entre los usuarios es fundamental, por lo que dentro de la propia aplicación podrás compartir tanto las actividades que más te gusten como fotos y vídeos tuyos realizándolas.
+También, la facilidad para encontrar actividades afines a nuestros gustos es una tarea pendiente en nuestros competidores, que nosotros, resolveremos mediante un sistema de recomendación personalizado (a partir de un algoritmo).
+
+Escuchando a nuestros usuarios (Manuel y Josefina), hemos visto que los dos principales problemas son:
+- Falta de información acerca de los tours
+- Dificultad en el proceso de reserva
+
+Estos problemas los solucionaremos en conjunto, es decir, facilitaremos el proceso de reserva unificándolo con la página donde se encuentra la información de la actividad. Además, dicha información incluirá descripciones **detalladas** de la actividad, imágenes, vídeos, requisitos, preguntas frecuentes... junto a datos relacionados con el terreno, la dificultad y datos necesarios para personas con cualquier tipo de discapacidad.
+
+Para gestionar nuestra propuesta, hemos hecho un roadmap, donde hemos especificado una serie de objetivos a corto, medio y largo plazo. Dichos objetivos se resumen en:
+- A corto plazo nos gustaría tener una aplicación móvil integrada con la aplicación, ya que, de esta forma, facilitaríamos la expansión en múltiples plataformas al mismo tiempo. Por otro lado, el sistema de recomendaciones personalizadas y el perfil de usuario son fundamentales para lograr la interacción e implicación que buscamos entre los usuarios. También, la realización de actividades únicas (tales como eventos), ayudarán a atraer nuevos usuarios.
+- A medio plazo nos gustaría incorporar un servicio de ayuda automático en nuestra aplicación, que sea capaz de guiarte si te has perdido.
+- A largo plazo nos gustaría realizar contratos y colaboraciones con grandes marcas y empresas, de forma que podamos expandir el rango de nuestras actividades de Granda a un ámbito nacional e internacional.
+
+<img align="center" src="./ScopeCanvas.png" alt="Scope Canvas"/>
 
 
 ### Análisis de tareas
