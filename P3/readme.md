@@ -57,14 +57,32 @@ Comentada en el apartado anterior.
 <img align="center" src="./Landing.png" alt="Landing Page"/>
 
 ### Catálogo
+Con nuestro catálogo hemos intentado conseguir una visualización rápida de todas las categorías de actividades. Las categorías de actividades facilitan la organización de cara a los usuarios. Además, nos permite añadir una calificación media. 
+En lo que respecta al diseño de cada categoría, hemos empleado un color llamativo y una imagen promocional. También, la paleta de colores utilizada, permite una rápida localización de los botones para las CTA.
+
+Por último, mencionar los filtros, que permiten hacer un filtrado de las categorías ofrecidas, ya sea por popularidad, calificación, etc.
 
 <img align="center" src="./Catalogo.png" alt="Catálogo"/>
 
 ### Proceso de reserva
 
+El proceso de reserva es la parte más importante de la página, puesto que es donde se concentran las acciones principales de todos los tipos de usuarios que esperamos.
+
+Es por ello que hemos priorizado dos puntos:
+- Eficiencia: con eficiencia nos referimos a que los usuarios pueden rápidamente realizar una reserva, así como consultar las distintas secciones de la página, con un menú en forma de barra que, al pulsar una opción, te lleve directamente a la sección correspondiente.
+- Accesibilidad: una de las principales críticas que teníamos hacia los competidores era la falta de información para personas con necesidades especiales, así como carencias en los estilos empleados. Es por eso que hemos añadido gran cantidad de información, que permita una accesibilidad total.
+
+Por otro lado, el formulario de reserva se ha mantenido en la misma página, evitando confusiones por parte de los usuarios. También, hemos añadido un asistente automático de reserva, capaz de responder las dudas y ofrecer una guía durante este procedimiento. Además, en caso de que haya algún problema con algún campo, se encargará de resaltarlo para hacerlo más visible al usuario.
+
 <img align="center" src="./Tour.png" alt="Reserva Tour"/>
 
 ### Buscador
+
+El buscador es otra de las partes más criticadas en la competencia. Es por eso que hemos diseñado un buscador rápido, cómodo y fácil de utilizar, con un estilo único.
+
+De este modo, hemos incluido la información clave que necesita el usuario para que, de un vistazo rápido, pueda saber qué actividad se adapta mejor a sus gustos. A esto tenemos que añadirle la posibilidad de emplear los filtros, acelerando aún más el proceso.
+
+Finalmente, destacar que, en caso de que haya un gran número de resultados, se empleará un botón que cargará la siguiente sección de resultados.
 
 <img align="center" src="./Buscador.png" alt="Buscador"/>
 
