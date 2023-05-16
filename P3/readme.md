@@ -40,9 +40,40 @@ Además, el landing page ofrece las principales opciones de navegación con una 
 
 ## Mockup: LAYOUT HI-FI
 
+Centrándonos en la página como un todo, como hemos mencionado previamente, el negro le proporciona un toque moderno y elegante, al igual que el amarillo, añadiendo un tono alegre.
+Sin embargo, para no hacer mucha sobrecarga (puesto que estos colores combinados pueden ser bastante pesados), el blanco proporciona el equilibrio.
+
+En nuestro mockup, hemos desarrollado las páginas más importantes:
+- Landing Page
+- Catálogo
+- Proceso de reserva en una actividad
+- Buscador
+
+Se han seleccionado estas páginas porque son las que aportan el mayor valor de cara al usuario final. También, la accesibilidad, ha sido uno de los puntos clave durante el diseño.
+
+### Landing Page
+Comentada en el apartado anterior.
+
+<img align="center" src="./Landing.png" alt="Landing Page"/>
+
+### Catálogo
+
+<img align="center" src="./Catalogo.png" alt="Catálogo"/>
+
+### Proceso de reserva
+
+<img align="center" src="./Tour.png" alt="Reserva Tour"/>
+
+### Buscador
+
+<img align="center" src="./Buscador.png" alt="Buscador"/>
+
 
 ## Documentación: Publicación del Case Study
 
 
-(incluye) Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
- 
+## Principales Dificultades
+
+
+## Conclusión y Valoración
+
