@@ -70,8 +70,8 @@ Por último, mencionar los filtros, que permiten hacer un filtrado de las catego
 El proceso de reserva es la parte más importante de la página, puesto que es donde se concentran las acciones principales de todos los tipos de usuarios que esperamos.
 
 Es por ello que hemos priorizado dos puntos:
-- Eficiencia: con eficiencia nos referimos a que los usuarios pueden rápidamente realizar una reserva, así como consultar las distintas secciones de la página, con un menú en forma de barra que, al pulsar una opción, te lleve directamente a la sección correspondiente.
-- Accesibilidad: una de las principales críticas que teníamos hacia los competidores era la falta de información para personas con necesidades especiales, así como carencias en los estilos empleados. Es por eso que hemos añadido gran cantidad de información, que permita una accesibilidad total.
+- **Eficiencia:** con eficiencia nos referimos a que los usuarios pueden rápidamente realizar una reserva, así como consultar las distintas secciones de la página, con un menú en forma de barra que, al pulsar una opción, te lleve directamente a la sección correspondiente.
+- **Accesibilidad:** una de las principales críticas que teníamos hacia los competidores era la falta de información para personas con necesidades especiales, así como carencias en los estilos empleados. Es por eso que hemos añadido gran cantidad de información, que permita una accesibilidad total.
 
 Por otro lado, el formulario de reserva se ha mantenido en la misma página, evitando confusiones por parte de los usuarios. También, hemos añadido un asistente automático de reserva, capaz de responder las dudas y ofrecer una guía durante este procedimiento. Además, en caso de que haya algún problema con algún campo, se encargará de resaltarlo para hacerlo más visible al usuario.
 
