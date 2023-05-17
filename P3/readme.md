@@ -30,16 +30,9 @@ Para comprobar que los colores empleados iban a hacer un buen contraste, hemos u
 
 ## Landing Page
 
-En los bocetos LO-FI de la práctica anterior, planteamos una landing page (el home) con multitud de elementos y acciones. Sin embargo, hemos llevado a cabo un refinamiento para conseguir una landing page con unos CTA muy localizados:
-- Búsqueda Instantánea: permite que recién llegados a la página, puedan empezar a buscar actividades.
-- Iniciar Sesión: permite que los usuarios puedan iniciar sesión de forma rápida.
-- Registro: permite que los usuarios puedan llevar a cabo un registro rápido.
+En nuestra landing page...
 
-Por otro lado, Granada, concretamente, la Alhambra, forma parte del primer vistazo que tendrán todos los usuarios, incorportando nuestro eslogan y nuestro maravilloso buscador.
-
-Además, el landing page ofrece las principales opciones de navegación con una barra que, inicialmente, estará difuminada con la imagen, destacando el eslogan, el buscador y el inicio de sesión.
-
-<img align="center" src="./Landing.png" alt="Landing Page"/>
+<img align="center" src="./LandingCorta.png" alt="Landing Page Vista Inicial"/>
 
 ## Mockup: LAYOUT HI-FI
 
@@ -54,8 +47,13 @@ En nuestro mockup, hemos desarrollado las páginas más importantes:
 
 Se han seleccionado estas páginas porque son las que aportan el mayor valor de cara al usuario final. También, la accesibilidad, ha sido uno de los puntos clave durante el diseño.
 
-### Landing Page
-Comentada en el apartado anterior.
+### Landing Page Completa
+En los bocetos LO-FI de la práctica anterior, planteamos nuestra Landing Page con multitud de elementos y acciones. Sin embargo, hemos llevado a cabo un refinamiento para conseguir una landing page con unos CTA muy localizados:
+- Búsqueda Instantánea: permite que recién llegados a la página, puedan empezar a buscar actividades.
+- Iniciar Sesión: permite que los usuarios puedan iniciar sesión de forma rápida.
+- Registro: permite que los usuarios puedan llevar a cabo un registro rápido.
+
+Por otro lado, Granada, concretamente, la Alhambra, forma parte del primer vistazo que tendrán todos los usuarios, incorportando nuestro eslogan y nuestro maravilloso buscador.
 
 <img align="center" src="./Landing.png" alt="Landing Page"/>
 
