@@ -1,15 +1,18 @@
 # DIU23
-Prácticas Diseño Interfaces de Usuario 2022-23 (Tema: .... ) 
+Prácticas Diseño Interfaces de Usuario 2022-23 (Tema: Tours por Granada) 
 
 Grupo: DIU2_UwUchads  Curso: 2022/23 
 Updated: 08/03/2023
 
 Proyecto: 
->>> UwU
+**Conecta Granada**
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+Nuestra proyecto se basa en la creación de una aplicación donde no sólo se puedan realizar tours, sino que se puedan realizar todo tipo de actividades 
+por Granada. Así, surge nuestra propuesta, que priorizará la accesibilidad de los usuarios a todas las actividades culturales que Granada puede ofrecer.
+
+Además, la colaboración con las pequeñas empresas será uno de los incentivos para fomentar la creación y mejora de nuevas actividades culturales.
 
 Logotipo: 
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
