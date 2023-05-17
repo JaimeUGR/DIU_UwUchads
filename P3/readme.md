@@ -6,13 +6,28 @@ En esta práctica, presentaremos una versión casi definitiva de Conecta Granada
 
 <img align="center" src="./Moodboard.png" alt="Moodboard"/>
 
-Para ayudarnos a tomar las deciciones sobre el diseño visual, hemos empleado un Moodboard. De esta forma, hemos buscado imágenes inspiraciones, de las que hemos extraído una paleta con tres colores básicos:
+Para ayudarnos a tomar las deciciones sobre el diseño visual, hemos empleado un Moodboard, donde, a partir de una serie de imágenes que consideramos representativas, hemos obtenido una paleta de colores.
+
+### Test de Contraste
+Para comprobar que los colores empleados iban a hacer un buen contraste, hemos utilizado la web [WebAIM: Contrast Checker](https://webaim.org/resources/contrastchecker/), que, al probar las combinaciones de color que íbamos a realizar, nos ha dado como resultado WCAG AAA, que significa que nuestra web es muy accesible en lo que respecta a la visualización de los elementos en pantalla.
+
+## Landing Page
+
+En nuestra landing page...
+
+<img align="center" src="./LandingCorta.png" alt="Landing Page Vista Inicial"/>
+
+## Guidelines
+### Estilo
+A partir del Moodboard, hemos determinado los elementos base de diseño de nuestra página.
+
+La paleta de color empleada estará formada por:
 - **Amarillo:** Nos recuerda al color de la Alhambra cuando se ilumina por la noche.
 - **Negro:** Nos recuerda al hermoso cielo nocturno de Granada.
 - **Blanco:** Nos recuerda a Sierra Nevada.
-Estos tres colores han sido la base para el estilo principal de la página, así como de otros colores que surgen a partir de sus sombreados.
+Estos tres colores han sido la base para el estilo principal de la página, así como de otros colores que surgen a partir de sus sombreados y combinaciones. También, gracias a la buena combinación de estos colores, podremos añadir secciones con más diversidad de color sin preocuparnos por el contraste.
 
-En lo que respecta a la tipografía, hemos optado por letras claras, no monoespaciadas. Por otro lado, un paquete de iconos minimalista nos ha permitido continuar con un estilo elegante y minimal.
+En lo que respecta a la tipografía, hemos optado por letras claras, no monoespaciadas, que faciliten la lectura. Finalmente, los iconos utilizados son minimalistas y sencillos, lo que nos ha permitido cambiar sus colores y adaptarlos a nuestras necesidades.
 
 Los códigos de color son:
 - **Amarillo** `#FFC739`
@@ -23,16 +38,10 @@ Las tipografías utilizadas son:
 - **Roboto Slab y Roboto:** será la tipografía principal utilizada. Muy legible y clara.
 - **Inter y Open Sans:** se propone como tipografía alternativa.
 
-Los iconos utilizados son de [Ionicons](https://ionicons.com/), que ofrece iconos minimalistas en formato SVG y con colores neutros, que nos ha permitido modificar los colores para adaptarlos a nuestra paleta.
+Los iconos utilizados son de [Ionicons](https://ionicons.com/), que ofrece iconos minimalistas en formato SVG y colores neutros.
 
-### Test de Contraste
-Para comprobar que los colores empleados iban a hacer un buen contraste, hemos utilizado la web [WebAIM: Contrast Checker](https://webaim.org/resources/contrastchecker/), que, al probar las combinaciones de color que íbamos a realizar, nos ha dado como resultado WCAG AAA, que significa que nuestra web es muy accesible en lo que respecta a la visualización de los elementos en pantalla.
+### Layout
 
-## Landing Page
-
-En nuestra landing page...
-
-<img align="center" src="./LandingCorta.png" alt="Landing Page Vista Inicial"/>
 
 ## Mockup: LAYOUT HI-FI
 
