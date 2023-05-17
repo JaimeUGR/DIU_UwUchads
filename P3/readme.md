@@ -41,12 +41,29 @@ Las tipografías utilizadas son:
 Los iconos utilizados son de [Ionicons](https://ionicons.com/), que ofrece iconos minimalistas en formato SVG y colores neutros.
 
 ### Layout
+En lo que respecta al diseño del layout, teniendo en cuenta que nuestro objetivo es crear una página web responsiva, capaz de adaptarse a móviles, hemos considerado varias pautas de diseño para lograrlo.
 
+#### Claridad visual
+Nuestro diseño busca que los objetos cercanos se perciban como un único estímulo, así como mantener cada elemento encapsulado mediante delimitadores visuales. De esta forma, la percepción por parte de los usuarios será uniforme y se acentuará en los elementos que más destaquen.
+
+#### Formato y consistencia visual
+La consistencia visual la hemos conseguido empleando una paleta de colores de forma uniforme, así como manteniendo un estilo a lo largo de las distintas páginas.
+A esto hay que añadir la simetría y el balanceado, bases de nuestro diseño al no dejar grandes espacios libres y mantener un eje de simetría central.
+
+Para dirigir la atención del usuario a las áreas más relevantes, hemos buscado una experiencia visual llena de contenido, sin olvidar la acentuación, conseguida al emplear el amarillo como contraste principal sobre el negro.
+
+Por otro lado, los iconos nos han ayudado a definir, clarificar y colorear las principales áreas de uso donde los usuarios pasarán más tiempo.
+
+#### Patrones de diseño
+Para ejecutar el diseño, hemos empleado patrones / elementos muy conocidos:
+- Barra de navegación flotante
+- Lista en cascada para el buscador
+- Carrusel de imágenes
+- Carrusel para los mini-catálogos (en el home)
+- Tags identificativos para las actividades
+- ETC.
 
 ## Mockup: LAYOUT HI-FI
-
-Centrándonos en la página como un todo, como hemos mencionado previamente, el negro le proporciona un toque moderno y elegante, al igual que el amarillo, añadiendo un tono alegre.
-Sin embargo, para no hacer mucha sobrecarga (puesto que estos colores combinados pueden ser bastante pesados), el blanco proporciona el equilibrio.
 
 En nuestro mockup, hemos desarrollado las páginas más importantes:
 - Landing Page
