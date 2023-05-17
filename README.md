@@ -92,7 +92,7 @@ al igual que nosotros la hemos tenido.
 
 
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
-
+----
 Para poder plantear nuestro proyecto, en primer lugar, hemos realizado una malla receptora de información, mediante la cual, hemos observado cuatro aspectos:
   - Like: En este apartado recabamos todas la ideas e implementaciones utilizadas por la competencia que más nos han gustado y que creemos que deben estar presente en
   nuestro proyecto.
@@ -141,7 +141,7 @@ De esta forma, hemos representado las acciones principales que todo tipo de usua
 De esta forma, hemos conseguido localizar las actividades más importantes (subrayadas en negrita), que formarán parte del uso habitual de los usuarios.
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
-
+----
 #### Sitemap
 Nuestro sitemap agrupa la funcionalidad principal del sistema, en diversos apartados, de forma que el usuario pueda elegir el más indicado para lo que está buscando. Además, la parte relacionada con el contacto y la gestión del perfil están reservadas para sus apartados correspondientes.
 
