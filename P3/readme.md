@@ -7,23 +7,26 @@ En esta práctica, presentaremos una versión casi definitiva de Conecta Granada
 <img align="center" src="./Moodboard.png" alt="Moodboard"/>
 
 Para ayudarnos a tomar las deciciones sobre el diseño visual, hemos empleado un Moodboard. De esta forma, hemos buscado imágenes inspiraciones, de las que hemos extraído una paleta con tres colores básicos:
-- Amarillo: Nos recuerda al color de la Alhambra cuando se ilumina por la noche.
-- Negro: Nos recuerda al hermoso cielo nocturno de Granada.
-- Blanco: Nos recuerda a Sierra Nevada.
+- **Amarillo:** Nos recuerda al color de la Alhambra cuando se ilumina por la noche.
+- **Negro:** Nos recuerda al hermoso cielo nocturno de Granada.
+- **Blanco:** Nos recuerda a Sierra Nevada.
 Estos tres colores han sido la base para el estilo principal de la página, así como de otros colores que surgen a partir de sus sombreados.
 
 En lo que respecta a la tipografía, hemos optado por letras claras, no monoespaciadas. Por otro lado, un paquete de iconos minimalista nos ha permitido continuar con un estilo elegante y minimal.
 
 Los códigos de color son:
-- Amarillo (#FFC739)
-- Negro (#111111)
-- Blanco (#FFFFFF)
+- **Amarillo** `#FFC739`
+- **Negro** `#111111`
+- **Blanco** `#FFFFFF`
 
 Las tipografías utilizadas son:
 - Roboto Slab y Roboto
 - Inter y Open Sans
 
-Los iconos utilizados son de IONICONS, que ofrece iconos minimalistas en formato SVG y con colores neutros, que nos ha permitido modificar los colores para adaptarlos a nuestra paleta.
+Los iconos utilizados son de [Ionicons](https://ionicons.com/), que ofrece iconos minimalistas en formato SVG y con colores neutros, que nos ha permitido modificar los colores para adaptarlos a nuestra paleta.
+
+### Test de Contraste
+Para comprobar que los colores empleados iban a hacer un buen contraste, hemos utilizado la web [WebAIM: Contrast Checker](https://webaim.org/resources/contrastchecker/), que, al probar las combinaciones de color que íbamos a realizar, nos ha dado como resultado WCAG AAA, que significa que nuestra web es muy accesible en lo que respecta a la visualización de los elementos en pantalla.
 
 ## Landing Page
 
@@ -92,6 +95,13 @@ Finalmente, destacar que, en caso de que haya un gran número de resultados, se 
 
 ## Principales Dificultades
 
+Durante el diseño del sitio, una de las principales dificultades ha sido la elección de la paleta de colores, puesto que buscábamos un estilo muy diferenciado pero tampoco muy sobrecargado.
+Otra dificultad ha sido el diseño del logo, ya que, habiendo decidido un estilo minimalista, queríamos un logo que representara la conexión de las personas con la cultura granadina. A pesar de ello, hemos sido capaces de diseñar un logo sencillo y que simboliza nuestro objetivo.
 
 ## Conclusión y Valoración
 
+Finalmente, consideramos que hemos logrado un diseño acorde a nuestras expectativas, con una correcta combinación de colores. Además, priorizar la accesibilidad nos ha permitido diseñar pensando en la usabilidad por parte del usuario final, lo que ha evitado cometer los errores que hemos criticado en la competencia.
+
+Prueba de ello han sido los resultados de los tests, como el de contraste, que califica el diseño (en términos de paleta de color) como WCAG AAA.
+
+Por otro lado, en lo que respecta el aspecto visual, creemos que nuestra propuesta destaca por su diseño único y moderno, empleando colores simples y manteniendo una estética uniforme a lo largo de todo el sitio.
