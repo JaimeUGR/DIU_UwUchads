@@ -20,8 +20,8 @@ Los códigos de color son:
 - **Blanco** `#FFFFFF`
 
 Las tipografías utilizadas son:
-- Roboto Slab y Roboto
-- Inter y Open Sans
+- **Roboto Slab y Roboto:** será la tipografía principal utilizada. Muy legible y clara.
+- **Inter y Open Sans:** se propone como tipografía alternativa.
 
 Los iconos utilizados son de [Ionicons](https://ionicons.com/), que ofrece iconos minimalistas en formato SVG y con colores neutros, que nos ha permitido modificar los colores para adaptarlos a nuestra paleta.
 
@@ -49,9 +49,9 @@ Se han seleccionado estas páginas porque son las que aportan el mayor valor de 
 
 ### Landing Page Completa
 En los bocetos LO-FI de la práctica anterior, planteamos nuestra Landing Page con multitud de elementos y acciones. Sin embargo, hemos llevado a cabo un refinamiento para conseguir una landing page con unos CTA muy localizados:
-- Búsqueda Instantánea: permite que recién llegados a la página, puedan empezar a buscar actividades.
-- Iniciar Sesión: permite que los usuarios puedan iniciar sesión de forma rápida.
-- Registro: permite que los usuarios puedan llevar a cabo un registro rápido.
+- **Búsqueda Instantánea:** permite que recién llegados a la página, puedan empezar a buscar actividades.
+- **Iniciar Sesión:** permite que los usuarios puedan iniciar sesión de forma rápida.
+- **Registro:** permite que los usuarios puedan llevar a cabo un registro rápido.
 
 Por otro lado, Granada, concretamente, la Alhambra, forma parte del primer vistazo que tendrán todos los usuarios, incorportando nuestro eslogan y nuestro maravilloso buscador.
 
