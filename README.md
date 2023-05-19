@@ -174,16 +174,16 @@ Hemos creado una serie de bocetos Lo-Fi, que nos han permitido esquematizar el d
 Cabe destacar que estos bocetos son puramente ilustrativos y no pretenden mostrar el estilo final de la página. Además, los colores utilizados son para seccionar la página, facilitando su posterior refinamiento.
 
 #### Home
-<img align="center" src="./P2/BocetoHome.png" alt="Boceto Home"/>
+Puedes encontrar cómo se vería la página principal en: [Home](./P2/BocetoHome.png)
 
 #### Catálogo General
-<img align="center" src="./P2/BocetoCatalogo.png" alt="Boceto Catálogo"/>
+Puedes encontrar cómo se vería el catálogo general donde están las distintas categorías de actividades en: [Catálogo General](./P2/BocetoCatalogo.png)
 
 #### Catálogo de Tours
-<img align="center" src="./P2/BocetoCatalogoTours.png" alt="Boceto Lista de Tours"/>
+Para ver los distintos tours que se encunetran disponibles puedes apreciar cómo se verían en: [Catálogo de tours](./P2/BocetoCatalogoTours.png)
 
 #### Reserva de Tour
-<img align="center" src="./P2/BocetoReservaTour.png" alt="Boceto Reserva de Tour"/>
+Puedes encontrar un esquema de cómo se realizaría la reserva de un tour en: [Reserva de tour](./P2/BocetoReservaTour.png)
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
