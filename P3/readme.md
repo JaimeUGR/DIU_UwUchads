@@ -181,3 +181,5 @@ Finalmente, consideramos que hemos logrado un diseño acorde a nuestras expectat
 Prueba de ello han sido los resultados de los tests, como el de contraste, que califica el diseño (en términos de paleta de color) como WCAG AAA.
 
 Por otro lado, en lo que respecta el aspecto visual, creemos que nuestra propuesta destaca por su diseño único y moderno, empleando colores simples y manteniendo una estética uniforme a lo largo de todo el sitio.
+
+En lo que respecta a la adaptación a dispositivos móviles (tal y como comentamos en nuestros objetivos a corto plazo), puesto que las modificaciones al diseño serían adaptación para visualizar el mismo contenido (o muy similar) en una pantalla más pequeña, como la página será responsive, se utilizará el diseño responsive en móviles junto a una pantalla de iniciar sesión antes de entrar a la aplicación.
