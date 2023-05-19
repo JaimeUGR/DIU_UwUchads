@@ -37,6 +37,7 @@ Hemos hecho una comparación entre los principales resultados al buscar por Inte
 
 De la comparación hemos sacado como conclusión que FreeTour está muy por detrás de los competidores y que, si lo que buscas es un tour por Granada,
 la mejor opción es [BuendiaTours](https://buendiatours.com/es/granada), tanto por la calidad de la página web como por las actividades ofrecidas.
+Si quieres observar el análisis de una forma más gráfica te recomendamos que hagas click en el siguiente enlace: https://github.com/JaimeUGR/DIU_UwUchads/P1/CompetitorAnalysis.png
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
