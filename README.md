@@ -14,8 +14,10 @@ por Granada. Así, surge nuestra propuesta, que priorizará la accesibilidad de 
 
 Además, la colaboración con las pequeñas empresas será uno de los incentivos para fomentar la creación y mejora de nuevas actividades culturales.
 
-Logotipo: 
-
+Logotipo:
+<br>
+<img align="center" width="300" src="./P3/Logo.png" alt="Logo"/>
+<img align="center" width="300" src="./P3/LogoTexto.png" alt="Logo con Texto"/>
 
 Miembros
  * :bust_in_silhouette: [Jaime Pérez García](https://github.com/JaimeUGR) :octocat:     
@@ -191,7 +193,16 @@ Puedes encontrar un esquema de cómo se realizaría la reserva de un tour en: [R
 
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
+En primer lugar, decidimos diseñar un logo minimalista, ya que estábamos buscando un estilo sencillo. De este proceso obtuvimos un logo que representaba a nuestra marca, una especie de C que abstrae la conexión de las personas con Granada.
+Además, encontramos un eslogan que une a nuestros clientes, nosotros como intermediarios y Granada, fortaleciendo aún más las bases del proyecto, las personas y Granada. También, tiene un cierto punto humorístico, lo que nos hizo quedarnos con él. Dicho eslogan es: **Tú. Nosotros. En Granada. Piénsalo**".
 
+Habiendo decidido logo y eslogan, saber qué estilo visual y elementos principales queríamos, empezamos a buscar algunas imágenes inspiraciones. Como queríamos un estilo elegante y minimalista (por el logo), con muy buen contraste, de nuestras imágenes determinamos que la paleta principal debería estar formada por negro, amarillo y blanco, los colores del cielo nocturno, las nubes del día y el atardecer, una forma de representar actividades que se realizan en todos los momentos del día.
+
+Además de esos colores principales, también decidimos añadir otros colores que contrastaran con los principales, que utilizaríamos para simbolizar algunos botones e iconos.
+
+En lo que respecta a la tipografía, creemos que Roboto Slab y Roboto son las que mejor quedan con nuestro estilo minimalista y elegante, además de una muy buena visibilidad. Hemos propuesto un estilo alternativo, algo menos elegante, pero que puede ser utilizado en caso de no estar disponible el principal.
+
+Finalmente, para los iconos, encontramos un paquete de iconos minimalista con iconos en SVG, lo que nos ha permitido escalarlos y colorearlos a nuestro gusto.
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
@@ -206,7 +217,30 @@ Además, queríamos añadir también la barra de navegación fundida con la imag
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
+Para proseguir con el diseño de la página, hemos intentado seguir guidelines que nos permitieran conseguir un diseño elegante, minimalista y moderno, sin sobrecarga de elementos. Además, una buena accesibilidad a todos los elementos y la uniformidad en el estilo han sido puntos decisivos para los patrones a utilizar.
 
+### Layout
+En lo que respecta al diseño del layout, teniendo en cuenta que nuestro objetivo es crear una página web responsiva, capaz de adaptarse a móviles, hemos considerado varias pautas de diseño para lograrlo.
+
+#### Claridad visual
+Nuestro diseño busca que los objetos cercanos se perciban como un único estímulo, así como mantener cada elemento encapsulado mediante delimitadores visuales. De esta forma, la percepción por parte de los usuarios será uniforme y se acentuará en los elementos que más destaquen.
+
+#### Formato y consistencia visual
+La consistencia visual la hemos conseguido empleando una paleta de colores de forma uniforme, así como manteniendo un estilo a lo largo de las distintas páginas.
+A esto hay que añadir la simetría y el balanceado, bases de nuestro diseño al no dejar grandes espacios libres y mantener un eje de simetría central.
+
+Para dirigir la atención del usuario a las áreas más relevantes, hemos buscado una experiencia visual llena de contenido, sin olvidar la acentuación, conseguida al emplear el amarillo como contraste principal sobre el negro. En esta experiencia, nos hemos asegurado de evitar la sobrecarga de elementos.
+
+Por otro lado, los iconos nos han ayudado a definir, clarificar y colorear las principales áreas de uso donde los usuarios pasarán más tiempo.
+
+#### Patrones de diseño
+Para ejecutar el diseño, hemos empleado patrones / elementos muy conocidos:
+- Barra de navegación flotante
+- Lista en cascada para el buscador
+- Carrusel de imágenes
+- Carrusel para los mini-catálogos (en el home)
+- Tags identificativos para las actividades
+- ETC.
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
@@ -225,7 +259,7 @@ El mockup está compuesto por:
 
 Para facilitar la visualización, recomendamos utilizar el protipo que hemos creado. Para navegar la página, pulsa en los distintos botones de navegación y otros interactuables en pantalla (pulsa en cualquier lado para que salga un cuadro azul que los marque).
 
-[PROTOTIPO]([PROTOTIPO](https://www.figma.com/proto/CGnqKBesW4RV1zjDJ2Iges/P3_Pagina?page-id=0%3A1&type=design&node-id=1-4&viewport=1501%2C951%2C0.32&scaling=scale-down&starting-point-node-id=1%3A4)
+[PROTOTIPO](https://www.figma.com/proto/CGnqKBesW4RV1zjDJ2Iges/P3_Pagina?page-id=0%3A1&type=design&node-id=1-4&viewport=1501%2C951%2C0.32&scaling=scale-down&starting-point-node-id=1%3A4)
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
