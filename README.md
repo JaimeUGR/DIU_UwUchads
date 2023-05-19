@@ -56,7 +56,7 @@ Manuel es una persona que no vive en Granada, sino en Tarragona, Çataluña. Qui
 turístico, por lo que está intentando reservar un tour a través de Internet.
 Sin embargo, debido a la discapacidad motora de Manuel, es muy importante conocer de antemano si podrá realizar el tour.
 
-<img align="center" src="./P1/Persona_Manuel.png" alt="Persona Manuel"/>
+Puedes apreciar más detalles sobre su biografía así como sus gustos y habilidades haciendo click en el siguiente enlace: [Descripción de Manuel](./P1/Persona_Manuel.png)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
@@ -64,7 +64,8 @@ Sin embargo, debido a la discapacidad motora de Manuel, es muy importante conoce
 ### Josefina
 La experiencia de Josefina es la más cercana a la que cualquier persona mayor que acceda a esta página tendrá que sufrir.
 
-<img align="center" src="./P1/Journey_Josefina.png" alt="Journey Persona Josefina"/>
+Puedes observar un cómo se va sintiendo Josefina y los problemas que le surgen a lo largo de su experiencia con la página web en el siguiente enlace: [Journey Map de Josefina](./P1/Journey_Josefina.png)
+
 
 
 ### Manuel
@@ -72,7 +73,7 @@ La experiencia de Manuel es muy cercana a la que experimentará:
 - Una persona que debido a su discapacidad no sabe si puede realizar el Tour
 - Una persona que no es de Granada
 
-<img align="center" src="./P1/Journey_Manuel.png" alt="Journey Persona Manuel"/>
+En el siguiente enlace: [Journey Map de Manuel](./P1/Journey_Manuel.png) , podrás comprobar cómo afecta a Manuel el hecho de ser una persona discapacitada a la hora de utilizar la página web.
 
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
@@ -103,7 +104,7 @@ Para comenzar nuestro proyecto, hemos creado una malla receptora de información
 "Questions" (Preguntas): En esta parte, hemos recopilado las preguntas que las personas ficticias se han hecho mientras utilizaban las aplicaciones de la  competencia.
 "Ideas" (Ideas): Basándonos en todo lo anterior, hemos incluido en esta sección las ideas que podemos implementar para hacer mejoras en nuestro proyecto.
 
-<img align="center" src="./P2/FeedbackCaptureGrid.png" alt="Feedback Capture Grid"/>
+En [Feedback Capture Grid](./P2/FeedbackCaptureGrid.png) encontrarás una imagen que deja de forma clara y visual los anteriores aspectos.
 
 
 
@@ -126,12 +127,12 @@ Para gestionar nuestra propuesta, hemos hecho un roadmap, donde hemos especifica
 - A medio plazo nos gustaría incorporar un servicio de ayuda automático en nuestra aplicación, que sea capaz de guiarte si te has perdido.
 - A largo plazo nos gustaría realizar contratos y colaboraciones con grandes marcas y empresas, de forma que podamos expandir el rango de nuestras actividades de Granada a un ámbito nacional e internacional.
 
-<img align="center" src="./P2/ScopeCanvas.png" alt="Scope Canvas"/>
+Puedes observar todo lo descrito anteriormente y más en el siguiente enlace: [Scope Canvas](./P2/ScopeCanvas)
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
-Para analizar las tareas de nuestros usuarios, hemos decidido crear una Task Matrix.
+Para analizar las tareas de nuestros usuarios, hemos decidido crear una Task Matrix. Esto consiste en una matriz donde ordenamos las tareas que se realizarán en nuestra aplicación según momentos temporales, para poder saber qué acciones son las que se realizan con mayor frecuencia.
 
 De esta forma, hemos representado las acciones principales que todo tipo de usuario tendrá, categorizado en 4 grupos:
 - Usuario buscando una actividad: estos usuarios pueden estar o no registrados, siendo su principal interés el encontrar una actividad que realizar.
@@ -139,16 +140,16 @@ De esta forma, hemos representado las acciones principales que todo tipo de usua
 - Usuario durante la realización de una actividad: estos usuarios están realizando una actividad, siendo su principal interés compartir lo que están haciendo.
 - Usuario tras la realización de una actividad: estos usuarios han terminado una actividad, siendo su principal interés encontrar nuevas actividades que realizar, utilizando los buscadores y mirando las recomendaciones.
 
-<img align="center" src="./P2/TaskMatrix.png" alt="Task Matrix"/>
+En [Task Matrix](./P2/TaskMatrix.png) encontrarás de una forma muy clara y visual cómo se ordenan las acciones según su frecuencia de uso en la aplicación.
 
 De esta forma, hemos conseguido localizar las actividades más importantes (subrayadas en negrita), que formarán parte del uso habitual de los usuarios.
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 #### Sitemap
-Nuestro sitemap agrupa la funcionalidad principal del sistema, en diversos apartados, de forma que el usuario pueda elegir el más indicado para lo que está buscando. Además, la parte relacionada con el contacto y la gestión del perfil están reservadas para sus apartados correspondientes.
+Con un Sitemap, y en concreto con el nuestro, queremos mostrar la funcionalidad general de nuestra aplicación, dividida en varios apartaddos para que el usuario tenga opción de elegir el apartado más conveniente para su uso. Además, la parte relacionada con el contacto y la gestión del perfil están reservadas para sus apartados correspondientes.
 
-<img align="center" src="./P2/Sitemap.png" alt="Sitemap"/>
+En [Sitemap](./P2/Sitemap.png) se muestra de forma muy clara la estructura general de nuestra aplicación.
 
 Este diseño lo hemos orientado de forma que el usuario tenga la mayor facilidad posible para:
 - Buscar las actividades que quiere
@@ -157,9 +158,9 @@ Este diseño lo hemos orientado de forma que el usuario tenga la mayor facilidad
 - Gestionar su perfil de forma cómoda y sencilla
 
 #### Labelling
-A continuación, detallamos todos los apartados que aparecen en nuestro sitemap:
+Con el Labelling, queremos conseguir etiquetar y describir cada uno de los apartados que aparecen en el esquema general del Sitemap, para que quede claro a qué se refiere cada uno.
 
-<img align="center" src="./P2/Labelling.png" alt="Sitemap Labelling"/>
+Si accedes a [Labelling](./P2/Labelling.png), podrás encontrar una tabla que describe cada uno de los aspectos anteriormente mencionados.
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
