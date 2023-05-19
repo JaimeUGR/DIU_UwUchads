@@ -33,15 +33,17 @@ Cuando el usuario haga scroll, la barra de navegación se volverá de color amar
 ### Estilo
 A partir del Moodboard, hemos determinado los elementos base de diseño de nuestra página.
 
-La paleta de color empleada estará formada por:
+La paleta de color principal empleada estará formada por:
 - **Amarillo:** Nos recuerda al color de la Alhambra cuando se ilumina por la noche.
 - **Negro:** Nos recuerda al hermoso cielo nocturno de Granada.
 - **Blanco:** Nos recuerda a Sierra Nevada.
 Estos tres colores han sido la base para el estilo principal de la página, así como de otros colores que surgen a partir de sus sombreados y combinaciones. También, gracias a la buena combinación de estos colores, podremos añadir secciones con más diversidad de color sin preocuparnos por el contraste.
 
+Por otro lado, nuestra paleta de color secundaria se utilizará para iconos, botones puntuales y algunos indicadores que ayudarán a los usuarios.
+
 En lo que respecta a la tipografía, hemos optado por letras claras, no monoespaciadas, que faciliten la lectura. Finalmente, los iconos utilizados son minimalistas y sencillos, lo que nos ha permitido cambiar sus colores y adaptarlos a nuestras necesidades.
 
-Los códigos de color son:
+Los códigos de color principales son:
 - **Amarillo** `#FFC739`
 - **Negro** `#111111`
 - **Blanco** `#FFFFFF`
@@ -49,6 +51,7 @@ Los códigos de color son:
 Las tipografías utilizadas son:
 - **Roboto Slab y Roboto:** será la tipografía principal utilizada. Muy legible y clara.
 - **Inter y Open Sans:** se propone como tipografía alternativa.
+Además, los tamaños (recomendados) a utilizar están indicados. Cabe destacar que, los tamaños, los hemos elegido para el diseño que hemos realizado, por lo que en un entorno real podría ser necesario modificarlos, **siempre y cuando** se mantengan las proporciones de tamaños que hemos indicado.
 
 Los iconos utilizados son de [Ionicons](https://ionicons.com/), que ofrece iconos minimalistas en formato SVG y colores neutros.
 
@@ -91,6 +94,7 @@ En nuestro mockup, hemos desarrollado las páginas más importantes:
 Además, algunos componentes interactuables como:
 - Filtros
 
+**NOTA:** Para una cómoda visualización, visita este [PROTOTIPO](https://www.figma.com/proto/CGnqKBesW4RV1zjDJ2Iges/P3_Pagina?page-id=0%3A1&type=design&node-id=1-4&viewport=1501%2C951%2C0.32&scaling=scale-down&starting-point-node-id=1%3A4) para navegar por nuestra página.
 
 ### Landing Page Completa
 En los bocetos LO-FI de la práctica anterior, planteamos nuestra Landing Page con multitud de elementos y acciones. Sin embargo, hemos llevado a cabo un refinamiento para conseguir una landing page con unos CTA muy localizados:
@@ -163,7 +167,7 @@ Este componente estará formado por un botón que, una vez pulsado, mostrará lo
 <img align="center" src="./Filtros.png" alt="Filtros"/>
 
 ## Documentación: Publicación del Case Study
-
+Para leer la información sobre nuestro caso de estudio, ve a la página principal del repositorio :).
 
 ## Principales Dificultades
 
