@@ -204,6 +204,8 @@ En lo que respecta a la tipografía, creemos que Roboto Slab y Roboto son las qu
 
 Finalmente, para los iconos, encontramos un paquete de iconos minimalista con iconos en SVG, lo que nos ha permitido escalarlos y colorearlos a nuestro gusto.
 
+<img align="center" src="./P3/Moodboard.png" alt="Moodboard"/>
+
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 Para el diseño de nuestra landing page, hemos aprovechado nuestra paleta de colores junto a una imagen representativa de Granada y nuestro eslogan para dar un potente impacto inicial al usuario, destacando sobre todos los elementos visuales:
@@ -211,7 +213,7 @@ Para el diseño de nuestra landing page, hemos aprovechado nuestra paleta de col
 - Nuestro buscador (CTA Principal)
 - Posibilidad de registrarse (CTA Secundario)
 
-[LandingPage Vista Inicial](./P3/LandingCorta.png)
+<img align="center" src="./P3/LandingCorta.png" alt="Landing Inicial (Versión Corta)"/>
 
 Además, queríamos añadir también la barra de navegación fundida con la imagen para mostrar las secciones principales desde el inicio en que entras a la página. La imagen elegida hace muy buen contraste con los textos que hay sobre ella, así como aportar una sensación de uniformidad al tener colores equivalentes con la paleta.
 
