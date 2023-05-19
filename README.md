@@ -211,11 +211,11 @@ Finalmente, para los iconos, encontramos un paquete de iconos minimalista con ic
 Para el diseño de nuestra landing page, hemos aprovechado nuestra paleta de colores junto a una imagen representativa de Granada y nuestro eslogan para dar un potente impacto inicial al usuario, destacando sobre todos los elementos visuales:
 - Nuestro eslogan
 - Nuestro buscador (CTA Principal)
-- Posibilidad de registrarse (CTA Secundario)
-
-<img align="center" src="./P3/LandingCorta.png" alt="Landing Inicial (Versión Corta)"/>
+- Posibilidad de iniciar sesión rápidamente (CTA Secundario)
 
 Además, queríamos añadir también la barra de navegación fundida con la imagen para mostrar las secciones principales desde el inicio en que entras a la página. La imagen elegida hace muy buen contraste con los textos que hay sobre ella, así como aportar una sensación de uniformidad al tener colores equivalentes con la paleta.
+
+<img align="center" src="./P3/LandingCorta.png" alt="Landing Inicial (Versión Corta)"/>
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
