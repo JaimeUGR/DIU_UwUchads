@@ -38,7 +38,7 @@ Hemos hecho una comparación entre los principales resultados al buscar por Inte
 De la comparación hemos sacado como conclusión que FreeTour está muy por detrás de los competidores y que, si lo que buscas es un tour por Granada,
 la mejor opción es [BuendiaTours](https://buendiatours.com/es/granada), tanto por la calidad de la página web como por las actividades ofrecidas.
 
-Si quieres observar el análisis de una forma más gráfica te recomendamos que hagas click en el siguiente enlace:[Competitor Analysis](./P1/CompetitorAnalysis.png)
+Si quieres observar el análisis de una forma más gráfica te recomendamos que hagas click en el siguiente enlace: [Competitor Analysis](./P1/CompetitorAnalysis.png)
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
@@ -49,7 +49,7 @@ Para poder probar la accesibilidad que tiene la página de [FreeTour](https://fr
 Josefina es una persona mayor, residente en Granada, que está jubilada y, ahora que tiene más tiempo libre, quiere disfrutar una experiencia
 nueva. Por ese motivo, ha decicido reservar para participar en un tour, ya que ella siempre ha estado interesada en este tipo de actividades.
 
-<img align="center" src="./P1/Persona_Josefina.png" alt="Persona Josefina"/>
+Puedes apreciar más detalles sobre su biografía así como sus gustos y habilidades haciendo click en el siguiente enlace: [Descripción de Josefina](./P1/Persona_Josefina.png)
 
 ### Manuel
 Manuel es una persona que no vive en Granada, sino en Tarragona, Çataluña. Quiere sorprender a su familia con un pequeño viaje para conocer un lugar
