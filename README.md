@@ -15,7 +15,7 @@ por Granada. Así, surge nuestra propuesta, que priorizará la accesibilidad de 
 Además, la colaboración con las pequeñas empresas será uno de los incentivos para fomentar la creación y mejora de nuevas actividades culturales.
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+
 
 Miembros
  * :bust_in_silhouette: [Jaime Pérez García](https://github.com/JaimeUGR) :octocat:     
@@ -193,35 +193,43 @@ Puedes encontrar un esquema de cómo se realizaría la reserva de un tour en: [R
 -----
 
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
-
-
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
+Para el diseño de nuestra landing page, hemos aprovechado nuestra paleta de colores junto a una imagen representativa de Granada y nuestro eslogan para dar un potente impacto inicial al usuario, destacando sobre todos los elementos visuales:
+- Nuestro eslogan
+- Nuestro buscador (CTA Principal)
+- Posibilidad de registrarse (CTA Secundario)
 
+[LandingPage Vista Inicial](./P3/LandingCorta.png)
 
->>> Plantear Landing Page 
+Además, queríamos añadir también la barra de navegación fundida con la imagen para mostrar las secciones principales desde el inicio en que entras a la página. La imagen elegida hace muy buen contraste con los textos que hay sobre ella, así como aportar una sensación de uniformidad al tener colores equivalentes con la paleta.
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+Siguiendo las guidelines, hemos diseñado los elementos principales de nuestra propuesta, con un estilo moderno y colores elegantes.
+El mockup está compuesto por:
+- [LandingPage Vista Scroll](./P3/Landing.png)
+- [Catálogos](./P3/Catalogos.png)
+- [Catálogo Tours](./P3/CatalogoTours.png)
+- [Actividad Tour](./P3/Tour.png)
+- [Buscador](./P3/Buscador.png)
+- [Para Ti](./P3/ParaTi.png)
+- [Nosotros](./P3/Nosotros.png)
+- [Perfil](./P3/Perfil.png)
+- [Iniciar Sesión](./P3/IniciarSesion.png)
+
+Para facilitar la visualización, recomendamos utilizar el protipo que hemos creado. Para navegar la página, pulsa en los distintos botones de navegación y otros interactuables en pantalla (pulsa en cualquier lado para que salga un cuadro azul que los marque).
+
+[PROTOTIPO]([PROTOTIPO](https://www.figma.com/proto/CGnqKBesW4RV1zjDJ2Iges/P3_Pagina?page-id=0%3A1&type=design&node-id=1-4&viewport=1501%2C951%2C0.32&scaling=scale-down&starting-point-node-id=1%3A4)
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
-
-
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
 
 
 ## Paso 4. Evaluación 
