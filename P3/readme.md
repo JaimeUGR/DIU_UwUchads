@@ -11,9 +11,21 @@ Para ayudarnos a tomar las deciciones sobre el diseño visual, hemos empleado un
 ### Test de Contraste
 Para comprobar que los colores empleados iban a hacer un buen contraste, hemos utilizado la web [WebAIM: Contrast Checker](https://webaim.org/resources/contrastchecker/), que, al probar las combinaciones de color que íbamos a realizar, nos ha dado como resultado WCAG AAA, que significa que nuestra web es muy accesible en lo que respecta a la visualización de los elementos en pantalla.
 
+### Logo
+El diseño de nuestro logo está basado en la letra C, con un estilo minimalista que intenta abstraer la conexión que se realiza entre la ciudad de Granada y la gente que viene a visitarla (lo que nombra nuestro proyecto, Conecta Granada). Además, utiliza el color negro,uno de los colores principales de nuestra paleta. 
+
+Este logo tiene varias versiones, una sin texto, que será la utilizada en los diseños y otra con texto, utilizada para productos de marketing como podrían ser camisetas, tazas, etc.
+
+<img align="center" src="./Logo.png" alt="Logo"/>
+<img align="center" src="./LogoTexto.png" alt="Logo con texto"/>
+
 ## Landing Page
 
-En nuestra landing page...
+Nuestra Landing Page nos permite, en el primer vistazo del usuario en la página, mostrar nuestro eslogan de forma clara y un CTA principal, que es el uso de nuestro buscador. Además, se ofrece el CTA secundario que es el Inicio de Sesión, fomentando la creación de una cuenta.
+
+El contraste de colores y la imagen seleccionada, así como el menú fusionado el fondo, dan una impresión de elegancia a la vez que muestran una Alhambra iluminada por la noche, recordando a nuestra paleta de colores.
+
+Cuando el usuario haga scroll, la barra de navegación se volverá de color amarillo, tal y como mostraremos más adelante.
 
 <img align="center" src="./LandingCorta.png" alt="Landing Page Vista Inicial"/>
 
@@ -67,11 +79,18 @@ Para ejecutar el diseño, hemos empleado patrones / elementos muy conocidos:
 
 En nuestro mockup, hemos desarrollado las páginas más importantes:
 - Landing Page
-- Catálogo
+- Catálogos
+- Catálogo Concreto
 - Proceso de reserva en una actividad
 - Buscador
+- Para Ti
+- Perfil
+- Iniciar Sesión
+- Nosotros
 
-Se han seleccionado estas páginas porque son las que aportan el mayor valor de cara al usuario final. También, la accesibilidad, ha sido uno de los puntos clave durante el diseño.
+Además, algunos componentes interactuables como:
+- Filtros
+
 
 ### Landing Page Completa
 En los bocetos LO-FI de la práctica anterior, planteamos nuestra Landing Page con multitud de elementos y acciones. Sin embargo, hemos llevado a cabo un refinamiento para conseguir una landing page con unos CTA muy localizados:
@@ -83,13 +102,18 @@ Por otro lado, Granada, concretamente, la Alhambra, forma parte del primer vista
 
 <img align="center" src="./Landing.png" alt="Landing Page"/>
 
-### Catálogo
-Con nuestro catálogo hemos intentado conseguir una visualización rápida de todas las categorías de actividades. Las categorías de actividades facilitan la organización de cara a los usuarios. Además, nos permite añadir una calificación media. 
+### Catálogos
+En esta sección hemos intentado conseguir una visualización rápida de todas las categorías de actividades. Las categorías de actividades facilitan la organización de cara a los usuarios.
 En lo que respecta al diseño de cada categoría, hemos empleado un color llamativo y una imagen promocional. También, la paleta de colores utilizada, permite una rápida localización de los botones para las CTA.
 
 Por último, mencionar los filtros, que permiten hacer un filtrado de las categorías ofrecidas, ya sea por popularidad, calificación, etc.
 
-<img align="center" src="./Catalogo.png" alt="Catálogo"/>
+<img align="center" src="./Catalogos.png" alt="Catálogos"/>
+
+### Catálogo Concreto
+Este catálogo concreto permite visualizar el estilo y organizción de las actividades según la categoría. En este caso, hemos hecho el catálogo de los Tours. Al igual que antes, puedes aplicar filtros para personalizar el orden.
+
+<img align="center" src="./CatalogoTours.png" alt="Catálogo de Tours"/>
 
 ### Proceso de reserva
 
@@ -104,7 +128,6 @@ Por otro lado, el formulario de reserva se ha mantenido en la misma página, evi
 <img align="center" src="./Tour.png" alt="Reserva Tour"/>
 
 ### Buscador
-
 El buscador es otra de las partes más criticadas en la competencia. Es por eso que hemos diseñado un buscador rápido, cómodo y fácil de utilizar, con un estilo único.
 
 De este modo, hemos incluido la información clave que necesita el usuario para que, de un vistazo rápido, pueda saber qué actividad se adapta mejor a sus gustos. A esto tenemos que añadirle la posibilidad de emplear los filtros, acelerando aún más el proceso.
@@ -113,6 +136,31 @@ Finalmente, destacar que, en caso de que haya un gran número de resultados, se 
 
 <img align="center" src="./Buscador.png" alt="Buscador"/>
 
+### Para Ti
+Esta sección permite a los usuarios registrados encontrar actividades recomendadas, actividades destacas y actividades en tendencia. Sólo las dos últimas serán visibles para los usuarios no registrados.
+
+<img align="center" src="./ParaTi.png" alt="Para Ti"/>
+
+### Nosotros
+En esta página mostramos información general de la empresa, como puede ser nuestra historia y nuestro objetivo, además de un formulario de contacto y las estadísticas más importantes de nuestro proyecto.
+
+<img align="center" src="./Nosotros.png" alt="Nosotros"/>
+
+### Perfil
+Desde esta página, los usuarios podrán gestionar todo lo relacionado con su perfil, con diversas opciones como puede ser el chat de amigos, el carrito de actividades, el historial de actividades realizadas, etc.
+
+<img align="center" src="./Perfil.png" alt="Perfil"/>
+
+### Iniciar Sesión
+Desde esta página, los usuarios podrán iniciar sesión o registrarse para crear una cuenta nueva.
+
+<img align="center" src="./IniciarSesion.png" alt="Iniciar Sesión"/>
+
+### Filtros
+Los filtros permiten una rápida organización de las actividades o catálogos mostrados en pantalla. De esta forma, los usuarios, podrán encontrar lo que buscan con más precisión. 
+Este componente estará formado por un botón que, una vez pulsado, mostrará los filtros disponibles y permitirá seleccionar si se aplican o no, así como configurar (por ejemplo, si queremos que la valoración sea superior a X).
+
+<img align="center" src="./Filtros.png" alt="Filtros"/>
 
 ## Documentación: Publicación del Case Study
 
