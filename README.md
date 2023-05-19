@@ -27,7 +27,7 @@ Miembros
 
 ## Paso 1. UX Desk Research & Analisis 
 
-![Método UX](https://github.com/JaimeUGR/DIU_UwUchads/P1/Competitive.png) 1.a Competitive Analysis
+![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
 Hemos hecho una comparación entre los principales resultados al buscar por Internet Tours gratis por Granada. La comparación se ha realizado entre:
