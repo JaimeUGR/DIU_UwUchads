@@ -27,7 +27,7 @@ Miembros
 
 ## Paso 1. UX Desk Research & Analisis 
 
-![Método UX](img/Competitive.png) 1.a Competitive Analysis
+![Método UX](https://github.com/JaimeUGR/DIU_UwUchads/P1/img/Competitive.png) 1.a Competitive Analysis
 -----
 
 Hemos hecho una comparación entre los principales resultados al buscar por Internet Tours gratis por Granada. La comparación se ha realizado entre:
@@ -41,7 +41,7 @@ la mejor opción es [BuendiaTours](https://buendiatours.com/es/granada), tanto p
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
-Las personas elegidas representan los dos colectivos principales de usuarios que utilizarán este producto.
+Para poder probar la accesibilidad que tiene la página de [FreeTour](https://freetour-granada.com/), hemos decidido elegir a dos personas que representan a dos colectivos distintos.
 
 ### Josefina
 Josefina es una persona mayor, residente en Granada, que está jubilada y, ahora que tiene más tiempo libre, quiere disfrutar una experiencia
@@ -75,8 +75,8 @@ La experiencia de Manuel es muy cercana a la que experimentará:
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
-En al análisis de usabilidad hemos podido comprobar que la página web falla en los aspectos clave relacionados con el proceso de reserva, algo
-que perjudica en gran medida la experiencia del usuario final.
+Un punto muy importante dentro del análisis de una página web es su usabilidad. Para poder describir este aspecto hemos utilizado una plantilla con todos los puntos clave con los que debería contar una
+página web y hemos sacado nuestras propias conclusiones acerca de [FreeTour](https://freetour-granada.com/)
 
 Los principales factores negativos son:
 - El rendimiento de la página es horrible
@@ -93,12 +93,13 @@ al igual que nosotros la hemos tenido.
 
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
 ----
-Para poder plantear nuestro proyecto, en primer lugar, hemos realizado una malla receptora de información, mediante la cual, hemos observado cuatro aspectos:
-  - Like: En este apartado recabamos todas la ideas e implementaciones utilizadas por la competencia que más nos han gustado y que creemos que deben estar presente en
-  nuestro proyecto.
-  - Wishes: En este apartartado hemos incluido todas las críticas que tenemos sobre la competencia, y que creemos que pueden mejorarse / solucionarse.
-  - Questions: Este apartado representa las preguntas que nuestras personas ficticias se han realizado durante su experiencia en la competencia.
-  - Ideas: Teniendo en cuenta lo anterior, en este apartado hemos incluido ideas que podemos implementar para mejorar el sitio.
+
+Para comenzar nuestro proyecto, hemos creado una malla receptora de información, en la que hemos observado cuatro aspectos clave:
+
+"Like" (Gustos): En esta sección, hemos recopilado todas las ideas y características que nos han gustado de la competencia y que creemos que deben estar presentes en nuestro proyecto.
+"Wishes" (Deseos): Aquí hemos incluido todas las críticas que tenemos sobre la competencia y las áreas que creemos que se pueden mejorar o solucionar.
+"Questions" (Preguntas): En esta parte, hemos recopilado las preguntas que las personas ficticias se han hecho mientras utilizaban las aplicaciones de la  competencia.
+"Ideas" (Ideas): Basándonos en todo lo anterior, hemos incluido en esta sección las ideas que podemos implementar para hacer mejoras en nuestro proyecto.
 
 <img align="center" src="./P2/FeedbackCaptureGrid.png" alt="Feedback Capture Grid"/>
 
