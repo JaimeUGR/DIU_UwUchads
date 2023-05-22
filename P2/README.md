@@ -76,6 +76,8 @@ Hemos creado una serie de bocetos Lo-Fi, que nos han permitido esquematizar el d
 
 Cabe destacar que estos bocetos son puramente ilustrativos y no pretenden mostrar el estilo final de la página.
 
+Además, también hemos creado dos bocetos que simulen la interacción básica con la aplicación móvil que desarrollaremos a corto plazo. El resto de partes del móvil como puede ser la reserva de una actividad o la lectura de los catálogos, tendrán un aspecto similar a los proporcionados en la página web.
+
 #### Home
 <img align="center" src="./BocetoHome.png" alt="Boceto Home"/>
 
@@ -87,6 +89,12 @@ Cabe destacar que estos bocetos son puramente ilustrativos y no pretenden mostra
 
 #### Reserva de Tour
 <img align="center" src="./BocetoReservaTour.png" alt="Boceto Reserva de Tour"/>
+
+#### Pantalla Inicio Móvil
+<img align="center" src="./IniciaMovil.png" alt="Pantalla Inicio Móvil"/>
+
+#### Pantalla Home Móvil
+<img align="center" src="./HomeMovil.png" alt="Pantalla Home Móvil"/>
 
 ### Conclusiones  
 Finalmente, consideramos que hemos logrado complacer todas las expectativas y necesidades de los usuarios, puesto que, hemos tenido en cuenta a grupos de personas de cualquier tipo, tengan distinta edad, alguna discapacidad etc, para crear una aplicación que les permita disfrutar de actividades por Granada.
