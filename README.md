@@ -258,8 +258,15 @@ El mockup está compuesto por:
 - [Nosotros](./P3/Nosotros.png)
 - [Perfil](./P3/Perfil.png)
 - [Iniciar Sesión](./P3/IniciarSesion.png)
+- [Filtros](./P3/Filtros.png)
 
-Para facilitar la visualización, recomendamos utilizar el protipo que hemos creado. Para navegar la página, pulsa en los distintos botones de navegación y otros interactuables en pantalla (pulsa en cualquier lado para que salga un cuadro azul que los marque).
+De todas estas páginas, la más importante es la de búsqueda de actividades y la de reserva de actividades, puesto que las principales tareas de los usuarios se concentran aquí.
+
+Para simplificar la búsqueda de actividades, hay una serie de indicadores bajo las actividades que indican información como el precio, si es gratis, la duración, si es tendencia, etc. Todos estos indicadores además, incluyen un tooltip que explican su contenido. Además, se pueden utilizar los filtros para cambiar los indicadores mostrados.
+
+En lo que respecta a la reserva de actividades, un asistente ayudará al usuario a la hora de poner los datos de la reserva. Además, toda la información necesaria se encuentra en la misma página, evitando confunsiones y/o pérdidas debidos a múltiples cambios de página.
+
+Finalmente, para facilitar la visualización, recomendamos utilizar el protipo que hemos creado. Para navegar la página, pulsa en los distintos botones de navegación y otros interactuables en pantalla (pulsa en cualquier lado para que salga un cuadro azul que los marque).
 
 [PROTOTIPO](https://www.figma.com/proto/CGnqKBesW4RV1zjDJ2Iges/P3_Pagina?page-id=0%3A1&type=design&node-id=1-4&viewport=1501%2C951%2C0.32&scaling=scale-down&starting-point-node-id=1%3A4)
 
