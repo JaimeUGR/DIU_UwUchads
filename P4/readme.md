@@ -11,7 +11,9 @@ De los dados, hemos sacado dos usuarios:
 - **Manuela (Caso B):** 2, 3, 6. Manuela es una abuelita que quiere llevar a su nieto de 6 años a una actividad de alfarería, para que aprenda la importancia del trabajo artesanal y pueda llevarse un recuerdo. No tiene casi experiencia con el uso de páginas web.
 
 ## Test SUS: A/B Testing
-
+Vamos a realizar el test sus con nuestros 6 usuarios, para posteriormente sacar conclusiones de los resultados obtenidos.
+[PDF](./TestSUS.pdf)
+<img src="TestSUS.png" alt="Test SUS">
 
 ### Conclusiones del test
 
