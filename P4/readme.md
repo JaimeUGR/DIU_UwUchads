@@ -11,13 +11,17 @@ De los dados, hemos sacado dos usuarios:
 - **Manuela (Caso B):** 2, 3, 6. Manuela es una abuelita que quiere llevar a su nieto de 6 años a una actividad de alfarería, para que aprenda la importancia del trabajo artesanal y pueda llevarse un recuerdo. No tiene casi experiencia con el uso de páginas web.
 
 ## Test SUS: A/B Testing
+#### Descripción Inicial
+El Caso B, trata sobre Artesanía Nazarí [DIU3_Uxiono](https://github.com/ArturoAcf/DIU_Uxiono). Esta aplicación permite reservar actividades artesanales en Granada, principalmente la cerámica. Su enfoque es ofrecer un servicio innovador a través de sus talleres.
+Como su idea de negocio necesita recabar usuarios, es fundamental realizar diversos Tests (como puede ser el SUS o el de compartición) para conocer la usabilidad de la página web y la posible experiencia de los usuarios.
+
+### Realización del test
 Vamos a realizar el test sus con nuestros 6 usuarios, para posteriormente sacar conclusiones de los resultados obtenidos.
 - [PDF](./TestSUS.pdf)
 <img src="TestSUS.png" alt="Test SUS">
 
 ### Conclusiones del test
-#### Descripción Inicial
-Hemos realizado el test SUS a 6 personas, 4 ficticias y 2 reales. Cada persona, tenía un fondo diferente, pero todos ellos querían realizar una acción que implicaba el uso del sitio web proporcionado.
+Tras realizar el test, vamos a analizar los resultados obtenidos.
 
 #### Test A
 En el Test A, hemos contado con 3 usuarios, con distinta edad y conocimientos técnicos.
