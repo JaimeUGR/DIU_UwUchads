@@ -7,8 +7,8 @@ Para hacer el A/B Testing, hemos seleccionado 6 usuarios con distintas edades y 
 <img src="./dados.png" alt="Imagen dados">
 
 De los dados, hemos sacado dos usuarios:
-- Hermión (Caso A): 1, 2, 3. Hermione es una persona procedente de China, que está aprendiendo a hablar español. Para ello, ha decidido venir a trabajar a España y, como está en Granada, quiere conocer gente, realizando alguna actividad al aire libre. Su ocupación actual es médico, y tiene mucho conocimiento técnico, gracias en parte a su juventud.
-- Manuela (Caso B): 2, 3, 6. Manuela es una abuelita que quiere llevar a su nieto de 6 años a una actividad de alfarería, para que aprenda la importancia del trabajo artesanal y pueda llevarse un recuerdo. No tiene casi experiencia con el uso de páginas web.
+- **Hermión (Caso A):** 1, 2, 3. Hermione es una persona procedente de China, que está aprendiendo a hablar español. Para ello, ha decidido venir a trabajar a España y, como está en Granada, quiere conocer gente, realizando alguna actividad al aire libre. Su ocupación actual es médico, y tiene mucho conocimiento técnico, gracias en parte a su juventud.
+- **Manuela (Caso B):** 2, 3, 6. Manuela es una abuelita que quiere llevar a su nieto de 6 años a una actividad de alfarería, para que aprenda la importancia del trabajo artesanal y pueda llevarse un recuerdo. No tiene casi experiencia con el uso de páginas web.
 
 * A/B Testing. 
 
