@@ -12,7 +12,7 @@ De los dados, hemos sacado dos usuarios:
 
 ## Test SUS: A/B Testing
 Vamos a realizar el test sus con nuestros 6 usuarios, para posteriormente sacar conclusiones de los resultados obtenidos.
-[PDF](./TestSUS.pdf)
+- [PDF](./TestSUS.pdf)
 <img src="TestSUS.png" alt="Test SUS">
 
 ### Conclusiones del test
