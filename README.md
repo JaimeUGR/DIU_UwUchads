@@ -317,7 +317,7 @@ Analizando la situación en detalle, hemos descubierto que todos los usuarios ha
 ----
 Para analizar más en detalle la propuesta de Artesanía Nazarí, hemos hecho un Usability Report, donde detallamos información sobre los usuarios que han realizado el Test SUS así como algunas recomendaciones de mejora para aumentar el grado de usabilidad de la aplicación.
 
-[Usability Report](./P4/InformeUsabilidadB-P4.pdf)
+[Usability Report](./P4/P4_UsabReport_Artesania_Nazari_doneby_DIU2_UwuChads.pdf)
 
 ## Valoración personal 
 Pensamos que el diseño de la página web es uniforme y atractivo, con colores relacionados con el producto que ofertan. Sin embargo, coincidimos en los problemas que han tenido los usuarios, principalmente con el contraste de algunos textos y con la fuente utilizada, debido al excesivo uso de la negrita. También, consideramos que facilitar la navegación con un seccionamiento más sencillo podría contribuir a una mejora sustancial en la usabilidad.
