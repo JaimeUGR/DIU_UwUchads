@@ -52,7 +52,7 @@ Manuela se sentía triste e insegura porque no estaba segura de si iba a saber u
 Podemos concluir que, a pesar del diseño sencillo del sitio, hay algunas carencias en lo que respecta al seccionamiento y al estilo de algunos elementos, principalmente el contraste y tipo de fuente utilizada, que provocan confusiones y pérdidas, hasta en lo susuarios más experimentados. Sin embargo, no son errores que impidan en gran medida el cumplimiento de los objetivos individuales de cada usuario.
 
 ## Usability Report del Caso B (Artesanía Nazarí)
-[Usability Report](./InformeUsabilidadB-P4.pdf)
+[Usability Report](./P4_UsabReport_Artesania_Nazari_doneby_DIU2_UwuChads.pdf)
 
 En nuestro Usability Report, hemos detallado el análisis realizado sobre el caso B (Artesanía Nazarí, DIU3 Uxionos), dando recomendaciones para solucionar esos pequeños fallos que han perjudicado la experiencia de los usuarios. Nos gustaría destacar que, a pesar de ello, los usuarios han conseguido realizar su objetivo, reservar un taller y/o comprar productos, pero que, con las mejoras que proponemos, garantizarán que todos los usuarios tengan una experiencia fluida.
 
