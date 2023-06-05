@@ -279,24 +279,23 @@ Finalmente, para facilitar la visualización, recomendamos utilizar el protipo q
 
 
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
-----
+El caso asignado es la página web de Artesanía Nazarí (DIU3_Uxiono). Esta aplicación permite reservar actividades artesanales en Granada, principalmente la cerámica. Su enfoque es ofrecer un servicio innovador a través de sus talleres. Como su idea de negocio necesita recabar usuarios, es fundamental realizar diversos Tests (como puede ser el SUS o el de compartición) para conocer la usabilidad de la página web y la posible experiencia de los usuarios.
 
-
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+[Artesanía Nazarí](https://github.com/ArturoAcf/DIU_Uxiono/tree/master)
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
-----
-
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
+Hemos seleccionado 6 usuarios, de distinta edad y conocimiento técnico, para abarcar un gran rango de posibles colectivos interesados en el uso de las aplicaciones.
  
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Josefina  | M / 65   | Jubilada  | Alta       | Vivaz | Web       | A 
+| Manuel | H / 48   | Arquitecto  | Media       | Introvertido       | Web        | A 
+| Hermione  | M / 30   | Médico     | Baja        | Emocional    | Web     | A
+| Francisco  | H / 20   | Estudiante  | Alta       | Racional     | Web       | B 
+| Laura  | M / 52   | Enfermera  | Media       | Impaciente     | Web        | B 
+| Manuela  | M / 70   | Jubilada  | Baja       | Tranquila     | Web        | B 
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
