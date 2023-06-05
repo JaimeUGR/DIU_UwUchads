@@ -304,7 +304,7 @@ Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario c
 <img src="./P4/TestSUS.png" alt="Test SUS">
 
 Para facilitar la cuantificación de los resultados, utilizaremos la siguiente escala:
-<img src="./P4/SUSSCALE.png" alt="Escala SUS">
+<img src="./P4/SUSSCALE.jpg" alt="Escala SUS">
 
 ### Caso A (Conecta Granada)
 En el Caso A, los usuarios han valorado muy positivamente la usabilidad de la página, superando el excelente según la cuantificación adjetiva. Consideramos que hemos cumplido nuestro objetivo de diseño, puesto que estábamos buscando una página web accesible para todo tipo de personas, donde puedan realizar de forma cómoda y sencilla la reserva de una actividad, así como explorar para ver las distintas opcioens ofrecidas.
