@@ -319,8 +319,9 @@ Para analizar más en detalle la propuesta de Artesanía Nazarí, hemos hecho un
 
 [Usability Report](./P4/InformeUsabilidadB-P4.pdf)
 
->>> Valoración personal 
+## Valoración personal 
 Pensamos que el diseño de la página web es uniforme y atractivo, con colores relacionados con el producto que ofertan. Sin embargo, coincidimos en los problemas que han tenido los usuarios, principalmente con el contraste de algunos textos y con la fuente utilizada, debido al excesivo uso de la negrita. También, consideramos que facilitar la navegación con un seccionamiento más sencillo podría contribuir a una mejora sustancial en la usabilidad.
+
 
 >>> ## Paso 5. Evaluación de Accesibilidad  (no necesaria)
 
