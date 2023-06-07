@@ -300,22 +300,29 @@ Hemos seleccionado 6 usuarios, de distinta edad y conocimiento técnico, para ab
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
-Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Tras la realización de este cuestionario, hemos obtenido el siguiente resultado:
-<img src="./P4/TestSUS.png" alt="Test SUS">
+Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Este test consiste en un cuestionario con 10 preguntas, calificadas numéricamente del 1-5, que nos permitira cuantificar la usabilidad de ambos casos. 
+
+Para realizar el cuestionario, le hemos pedido a los usuarios que realicen estas actividades:
+- Utilizar el buscador
+- Visitar los distintos catálogos de actividades disponibles
+- Reservar una actividad
+- Iniciar Sesión / Crear una cuenta
+
+Tras la realización de este cuestionario, hemos obtenido el siguiente resultado: [Resultados](./P4/TestSUS.png)
 
 Para facilitar la cuantificación de los resultados, utilizaremos la siguiente escala:
 <img src="./P4/SUSSCALE.jpg" alt="Escala SUS">
 
 ### Caso A (Conecta Granada)
-En el Caso A, los usuarios han valorado muy positivamente la usabilidad de la página, superando el excelente según la cuantificación adjetiva. Consideramos que hemos cumplido nuestro objetivo de diseño, puesto que estábamos buscando una página web accesible para todo tipo de personas, donde puedan realizar de forma cómoda y sencilla la reserva de una actividad, así como explorar para ver las distintas opcioens ofrecidas.
+En el Caso A, la media del valor SUS es de 92,5, por lo que los usuarios han valorado muy positivamente la usabilidad de la página, superando el excelente según la cuantificación adjetiva. Consideramos que hemos cumplido nuestro objetivo de diseño, puesto que estábamos buscando una página web accesible para todo tipo de personas, donde puedan realizar de forma cómoda y sencilla la reserva de una actividad, así como explorar para ver las distintas opcioens ofrecidas.
 
 ### Caso B (Artesanía Nazarí)
-En el Caso B, 2 usuarios han valorado positivamente la usabilidad de la página, lo que equivale al excelente - bien de la cuantificación adjetiva. Sin embargo, el otro usuario, ha valorado de forma neutra, el OK adjetivo, debido a su poca experiencia con el uso de páginas web, que, a pesar de la sencillez del sitio, ha supuesto un obstáculo para completar su objetivo.
+En el Caso B, la media del valor SUS es de 75. Aquí, encontramos que 2 usuarios han valorado positivamente la usabilidad de la página, lo que equivale al excelente - bien de la cuantificación adjetiva. Sin embargo, el otro usuario, ha valorado de forma neutra, el OK adjetivo, debido a su poca experiencia con el uso de páginas web, que, a pesar de la sencillez del sitio, ha supuesto un obstáculo para completar su objetivo.
 Analizando la situación en detalle, hemos descubierto que todos los usuarios han experimentado problemas muy similares, lo que ha perjudicado la usabilidad del sitio web y, en consecuencia, su SUS Score.
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
-Para analizar más en detalle la propuesta de Artesanía Nazarí, hemos hecho un Usability Report, donde detallamos información sobre los usuarios que han realizado el Test SUS así como algunas recomendaciones de mejora para aumentar el grado de usabilidad de la aplicación.
+Para analizar más en detalle la propuesta de Artesanía Nazarí, hemos hecho un Usability Report, donde detallamos información sobre los usuarios que han realizado el Test SUS, la metodología seguida y un análisis de Eye Tracking, así como algunas recomendaciones de mejora para aumentar el grado de usabilidad de la aplicación.
 
 [Usability Report](./P4/P4_UsabReport_Artesania_Nazari_doneby_DIU2_UwuChads.pdf)
 
@@ -323,27 +330,9 @@ Para analizar más en detalle la propuesta de Artesanía Nazarí, hemos hecho un
 Pensamos que el diseño de la página web es uniforme y atractivo, con colores relacionados con el producto que ofertan. Sin embargo, coincidimos en los problemas que han tenido los usuarios, principalmente con el contraste de algunos textos y con la fuente utilizada, debido al excesivo uso de la negrita. También, consideramos que facilitar la navegación con un seccionamiento más sencillo podría contribuir a una mejora sustancial en la usabilidad.
 
 
->>> ## Paso 5. Evaluación de Accesibilidad  (no necesaria)
-
-
->>> ![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report 
->>>> ----
-
->>> Indica qué pretendes evaluar (de accesibilidad) sobre qué APP y qué resultados has obtenido 
-
->>> 5.a) Evaluación de la Accesibilidad (con simuladores o verificación de WACG) 
->>> 5.b) Uso de simuladores de accesibilidad 
-
->>> (uso de tabla de datos, indicar herramientas usadas) 
-
->>> 5.c Breve resumen del estudio de accesibilidad (de práctica 1) y puntos fuertes y de mejora de los criterios de accesibilidad de tu diseño propuesto en Práctica 4.
-
-
-
 ## Conclusión final / Valoración de las prácticas
+En nuestra opinión, estamos contentos con el resultado obtenido, así como el proceso y la metodología aplicada. En un principio, analizamos otras páginas web, encontrando numerosos defectos que perjudicaban enormemente la experiencia de los usuarios. A continuación, nos propusimos la difícil tarea de hacer un diseño completo, fácil de usar y con un estilo moderno. Finalmente, creemos que hemos conseguido nuestro objetivo, puesto que hemos considerado todas las quejas que teníamos acerca de los competidores así como integrado mejoras gracias al proceso de diseño teniendo en mente la usabilidad y accesibilidad del contenido.
 
-
->>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
 
 
 
