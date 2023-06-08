@@ -344,6 +344,7 @@ Las actividades que tenían que hacer:
 - Consultar información sobre la empresa (Nosotros)
 
 Los mapas de calor y AOI están en este archivo: [Eye Tracking](./P5/EyeTracking.pdf).
+
 También, adjuntamos un vídeo con la interacción de Francisco [Video Eye Tracking Francisco](https://app.gazerecorder.com/Study/Player/?Watch=20230608_06402305ca608c-7fba-4143-b7a6-1748d010e55b)
 
 ### Conclusiones del estudio
