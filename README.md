@@ -330,6 +330,7 @@ Para analizar más en detalle la propuesta de [Artesanía Nazarí](https://githu
 Pensamos que el diseño de la página web es uniforme y atractivo, con colores relacionados con el producto que ofertan. Sin embargo, coincidimos en los problemas que han tenido los usuarios, principalmente con el contraste de algunos textos y con la fuente utilizada, debido al excesivo uso de la negrita. También, consideramos que facilitar la navegación con un seccionamiento más sencillo podría contribuir a una mejora sustancial en la usabilidad.
 
 ![Método UX](img/usability-report.png) 5.a Eye Tracking
+----
 Habiendo realizado tests de usabilidad a nuestros usuarios, nos gustaría realizar un estudio sobre el comportamiento de nuestros usuarios utilizando tecnología de trazamiento ocular sobre nuestro prototipo. Para ello, hemos empleado la herramienta [GazeRecorder](https://gazerecorder.com/). Sin embargo, hemos tenido problemas a la hora de utilizarla con nuestro protipo en figma, por lo que nos hemos visto obligados a utilizarla sobre imágenes del prototipo. Debido al funcionamiento de la herramienta, la resolución de las imágenes no se ajustaba correctamente a la calibración ocular, por lo que el resultado en los mapas de calor ha quedado distorsionado.
 
 ### Estudio
@@ -343,9 +344,9 @@ Las actividades que tenían que hacer:
 - Iniciar sesión en su perfil
 - Consultar información sobre la empresa (Nosotros)
 
-Los mapas de calor y AOI están en este archivo: [Eye Tracking](./P5/EyeTracking.pdf).
+Los mapas de calor y AOI están en este archivo, agrupados por usuario y página evaluada: [Eye Tracking](./P5/EyeTracking.pdf).
 
-También, adjuntamos un vídeo con la interacción de Francisco [Video Eye Tracking Francisco](https://app.gazerecorder.com/Study/Player/?Watch=20230608_06402305ca608c-7fba-4143-b7a6-1748d010e55b)
+También, adjuntamos un vídeo con la interacción de Francisco: [Vídeo](https://app.gazerecorder.com/Study/Player/?Watch=20230608_06402305ca608c-7fba-4143-b7a6-1748d010e55b).
 
 ### Conclusiones del estudio
 Observando las interacciones de ambos usuarios, hemos comprobado que, a pesar del poco tiempo de visualización (10-12 segundos), han sido capaces de encontrar las interacciones principales y recorrer la página tal y como la habíamos diseñado. También, destacar que, durante el proceso de reserva, los usuarios han visualizado las distintas secciones según el flujo esperado. Además, el botón de reserva rápida en la barra inicial ha destacado lo suficiente como para que ambos usuarios lo hayan visto al inicio.
@@ -355,6 +356,7 @@ Finalmente, nos gustaría comentar que, debido a los problemas con la herramient
 ### Herramienta alternativa propuesta
 Como herramienta alternativa de Eye Tracking, proponemos el uso de [RealEye](https://www.realeye.io/es/). Además de funcionar sobre prototipos figma (utilizando la url), nos permite crear estudios y compartir un enlace a ese estudio, facilitando el acceso de los participantes. Sin embargo, para poder realizar estudios completos, es necesario pagar una licencia (aunque hay una opción educativa).
 
+----
 
 ## Paso Final: Conclusión / Valoración de las prácticas
 En nuestra opinión, estamos contentos con el resultado obtenido, así como el proceso y la metodología aplicada. En un principio, analizamos otras páginas web, encontrando numerosos defectos que perjudicaban enormemente la experiencia de los usuarios. A continuación, nos propusimos la difícil tarea de hacer un diseño completo, fácil de usar y con un estilo moderno. Finalmente, creemos que hemos conseguido nuestro objetivo, puesto que hemos considerado todas las quejas que teníamos acerca de los competidores así como integrado mejoras gracias al proceso de diseño teniendo en mente la usabilidad y accesibilidad del contenido.
