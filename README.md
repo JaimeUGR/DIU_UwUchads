@@ -332,24 +332,27 @@ Pensamos que el diseño de la página web es uniforme y atractivo, con colores r
 ![Método UX](img/usability-report.png) 5.a Eye Tracking
 Habiendo realizado tests de usabilidad a nuestros usuarios, nos gustaría realizar un estudio sobre el comportamiento de nuestros usuarios utilizando tecnología de trazamiento ocular sobre nuestro prototipo. Para ello, hemos empleado la herramienta [GazeRecorder](https://gazerecorder.com/). Sin embargo, hemos tenido problemas a la hora de utilizarla con nuestro protipo en figma, por lo que nos hemos visto obligados a utilizarla sobre imágenes del prototipo. Debido al funcionamiento de la herramienta, la resolución de las imágenes no se ajustaba correctamente a la calibración ocular, por lo que el resultado en los mapas de calor ha quedado distorsionado.
 
-El estudio lo hemos realizado sobre nuestro usuario real Francisco, experto en navegación web y tecnología.
-Mapas de calor de cada página:
-- [Landing](#)
-- [Catálogo](#)
-- [Catálogo Tours](#)
-- [Buscador](#)
-- [Para Ti](#)
-- Reserva
-  - [1](#)
-  - [2](#)
-  - [3](#)
-  - [4](#)
-- [Nosotros](#)
-- [Iniciar Sesión](#)
-- [Perfil](#)
+### Estudio
+El estudio lo hemos realizado sobre dos usuarios, Francisco, joven con mucha experiencia tecnológica y web, y Laura, con experiencia intermedia y edad adulta. Hemos seleccionado estos dos usuarios porque creemos que representan el colectivo principal de usuarios de nuestra aplicación.
+Las actividades que tenían que hacer:
+- Visitar todas las páginas, estando en cada una de ellas 10-12 segundos.
+- Consultar la información de una actividad (navegando desde la página principal, pasando por los catálogos)
+  - Consultar la información acerca de la actividad
+  - Consultar la información sobre el mapa, itinerario y elementos incluidos 
+  - Realizar una reserva de una actividad
+- Iniciar sesión en su perfil
+- Consultar información sobre la empresa (Nosotros)
 
+Los mapas de calor y AOI están en este archivo: [Eye Tracking](./P5/EyeTracking.pdf).
+También, adjuntamos un vídeo con la interacción de Francisco [Video Eye Tracking Francisco](https://app.gazerecorder.com/Study/Player/?Watch=20230608_06402305ca608c-7fba-4143-b7a6-1748d010e55b)
+
+### Conclusiones del estudio
+Observando las interacciones de ambos usuarios, hemos comprobado que, a pesar del poco tiempo de visualización (10-12 segundos), han sido capaces de encontrar las interacciones principales y recorrer la página tal y como la habíamos diseñado. También, destacar que, durante el proceso de reserva, los usuarios han visualizado las distintas secciones según el flujo esperado. Además, el botón de reserva rápida en la barra inicial ha destacado lo suficiente como para que ambos usuarios lo hayan visto al inicio.
+
+Finalmente, nos gustaría comentar que, debido a los problemas con la herramienta mencionados previamente, puede que los resultados no sean del todo fiables y sea necesario realizar el mismo estudio con una herramienta alternativa.
+
+### Herramienta alternativa propuesta
 Como herramienta alternativa de Eye Tracking, proponemos el uso de [RealEye](https://www.realeye.io/es/). Además de funcionar sobre prototipos figma (utilizando la url), nos permite crear estudios y compartir un enlace a ese estudio, facilitando el acceso de los participantes. Sin embargo, para poder realizar estudios completos, es necesario pagar una licencia (aunque hay una opción educativa).
-
 
 
 ## Paso Final: Conclusión / Valoración de las prácticas
