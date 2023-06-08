@@ -67,7 +67,7 @@ Analizando la situación en detalle, hemos descubierto que todos los usuarios ha
 
 
 ## Usability Report del Caso B (Artesanía Nazarí)
-[Usability Report](./P4_UsabReport_Artesania_Nazari_doneby_DIU2_UwuChads.pdf)
+[Usability Report](./P4_UsabReport_Artesania_Nazarí_doneby_DIU2_UwuChads.pdf)
 
 En nuestro Usability Report, hemos detallado el análisis realizado sobre el caso B (Artesanía Nazarí, DIU3 Uxionos), dando recomendaciones para solucionar esos pequeños fallos que han perjudicado la experiencia de los usuarios. Nos gustaría destacar que, a pesar de ello, los usuarios han conseguido realizar su objetivo, reservar un taller y/o comprar productos, pero que, con las mejoras que proponemos, garantizarán que todos los usuarios tengan una experiencia fluida, incrementando así la valoración de percepción de la usabilidad.
 
