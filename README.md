@@ -344,6 +344,7 @@ Mapas de calor de cada página:
   - [2](#)
   - [3](#)
   - [4](#)
+- [Nosotros](#)
 - [Iniciar Sesión](#)
 - [Perfil](#)
 
