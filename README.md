@@ -340,10 +340,10 @@ Mapas de calor de cada página:
 - [Buscador](#)
 - [Para Ti](#)
 - Reserva
- - [1](#)
- - [2](#)
- - [3](#)
- - [4](#)
+  - [1](#)
+  - [2](#)
+  - [3](#)
+  - [4](#)
 - [Iniciar Sesión](#)
 - [Perfil](#)
 
