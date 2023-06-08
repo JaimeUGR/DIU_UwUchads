@@ -8,6 +8,20 @@ Hemos empleado esta herramienta porque queremos conocer cómo de efectivos son l
 ### Estudio
 Se ha seleccionado a nuestro usuario real Francisco para llevar a cabo el estudio con esta herramienta. Lo hemos seleccionado principalmente debido a su disponibilidad, así como a sus conocimientos técnicos y experiencia navegando la web. Al ser un usuario experto, creemos que puede reflejar en gran medida el comportamiento que tendrá el público más joven.
 
+Mapas de calor de cada página:
+- [Landing](#)
+- [Catálogo](#)
+- [Catálogo Tours](#)
+- [Buscador](#)
+- [Para Ti](#)
+- Reserva
+  - [1](#)
+  - [2](#)
+  - [3](#)
+  - [4](#)
+- [Nosotros](#)
+- [Iniciar Sesión](#)
+- [Perfil](#)
 
 
 
