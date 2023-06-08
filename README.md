@@ -350,7 +350,9 @@ Mapas de calor de cada página:
 
 Como herramienta alternativa de Eye Tracking, proponemos el uso de [RealEye](https://www.realeye.io/es/). Además de funcionar sobre prototipos figma (utilizando la url), nos permite crear estudios y compartir un enlace a ese estudio, facilitando el acceso de los participantes. Sin embargo, para poder realizar estudios completos, es necesario pagar una licencia (aunque hay una opción educativa).
 
-!Método UX - Conclusión final / Valoración de las prácticas
+
+
+## Paso Final: Conclusión / Valoración de las prácticas
 En nuestra opinión, estamos contentos con el resultado obtenido, así como el proceso y la metodología aplicada. En un principio, analizamos otras páginas web, encontrando numerosos defectos que perjudicaban enormemente la experiencia de los usuarios. A continuación, nos propusimos la difícil tarea de hacer un diseño completo, fácil de usar y con un estilo moderno. Finalmente, creemos que hemos conseguido nuestro objetivo, puesto que hemos considerado todas las quejas que teníamos acerca de los competidores así como integrado mejoras gracias al proceso de diseño teniendo en mente la usabilidad y accesibilidad del contenido.
 
 
