@@ -329,8 +329,11 @@ Para analizar más en detalle la propuesta de [Artesanía Nazarí](https://githu
 ## Valoración personal del caso B
 Pensamos que el diseño de la página web es uniforme y atractivo, con colores relacionados con el producto que ofertan. Sin embargo, coincidimos en los problemas que han tenido los usuarios, principalmente con el contraste de algunos textos y con la fuente utilizada, debido al excesivo uso de la negrita. También, consideramos que facilitar la navegación con un seccionamiento más sencillo podría contribuir a una mejora sustancial en la usabilidad.
 
-![Método UX](img/usability-report.png) 5.a Eye Tracking
 ----
+
+
+## Paso 5. Eye Tracking
+
 Habiendo realizado tests de usabilidad a nuestros usuarios, nos gustaría realizar un estudio sobre el comportamiento de nuestros usuarios utilizando tecnología de trazamiento ocular sobre nuestro prototipo. Para ello, hemos empleado la herramienta [GazeRecorder](https://gazerecorder.com/). Sin embargo, hemos tenido problemas a la hora de utilizarla con nuestro protipo en figma, por lo que nos hemos visto obligados a utilizarla sobre imágenes del prototipo. Debido al funcionamiento de la herramienta, la resolución de las imágenes no se ajustaba correctamente a la calibración ocular, por lo que el resultado en los mapas de calor ha quedado distorsionado.
 
 ### Estudio
