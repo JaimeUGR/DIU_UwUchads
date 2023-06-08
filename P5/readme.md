@@ -6,7 +6,16 @@ Para realizar un estudio del comportamiento de los usuarios en nuestra página w
 Hemos empleado esta herramienta porque queremos conocer cómo de efectivos son los distintos Call To Action, así como ver el comportamiento del usuario en lo que respecta a la visualización, atención a las áreas de interés, etc. 
 
 ### Estudio
-Se ha seleccionado a nuestro usuario real Francisco para llevar a cabo el estudio con esta herramienta. Lo hemos seleccionado principalmente debido a su disponibilidad, así como a sus conocimientos técnicos y experiencia navegando la web. Al ser un usuario experto, creemos que puede reflejar en gran medida el comportamiento que tendrá el público más joven.
+Se ha seleccionado a nuestro usuario real Francisco para llevar a cabo el estudio con esta herramienta. Lo hemos seleccionado principalmente debido a su disponibilidad, así como a sus conocimientos técnicos y experiencia navegando la web. Al ser un usuario experto, creemos que puede reflejar en gran medida el comportamiento que tendrá el público más joven. Nos habría gustado contar con más usuarios reales, pero por limitaciones de la propia herramienta (para realizar más estudios era necesario pagar) no ha sido posible.
+
+Seleccionados los usuarios (en este caso uno), las tareas a realizar han sido las siguientes:
+- Visitar todas las páginas, estando en cada una de ellas 10-12 segundos.
+- Consultar la información de una actividad (navegando desde la página principal)
+  - Consultar la información acerca de la actividad
+  - Consultar la información sobre el mapa, itinerario y elementos incluidos 
+  - Realizar una reserva de una actividad
+- Iniciar sesión en su perfil
+- Consultar información sobre la empresa (Nosotros)
 
 Mapas de calor de cada página:
 #### Landing Page
