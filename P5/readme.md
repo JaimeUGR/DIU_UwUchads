@@ -9,24 +9,41 @@ Hemos empleado esta herramienta porque queremos conocer cómo de efectivos son l
 Se ha seleccionado a nuestro usuario real Francisco para llevar a cabo el estudio con esta herramienta. Lo hemos seleccionado principalmente debido a su disponibilidad, así como a sus conocimientos técnicos y experiencia navegando la web. Al ser un usuario experto, creemos que puede reflejar en gran medida el comportamiento que tendrá el público más joven.
 
 Mapas de calor de cada página:
-- [Landing](#)
-- [Catálogo](#)
-- [Catálogo Tours](#)
-- [Buscador](#)
-- [Para Ti](#)
-- Reserva
-  - [1](#)
-  - [2](#)
-  - [3](#)
-  - [4](#)
-- [Nosotros](#)
-- [Iniciar Sesión](#)
-- [Perfil](#)
+#### Landing Page
+<img src="#" alt="Landing Mapa Calor">
 
+#### Catálogos
+<img src="#" alt="Catálogo Mapa Calor">
 
+#### Catálogo de Tours
+<img src="#" alt="Catálogo Tours Mapa Calor">
 
-### RESUMEN 
+#### Buscador
+<img src="#" alt="Buscador Mapa Calor">
 
-Conclusiones de apartados anteriores 
+#### Para Ti
+<img src="#" alt="Para Ti Mapa Calor">
 
-Puntos fuertes y de mejora de los criterios de accesibilidad de tu diseño
+#### Proceso de reserva
+<img src="#" alt="Reserva 1 Mapa Calor">
+<img src="#" alt="Reserva 2 Mapa Calor">
+<img src="#" alt="Reserva 3 Mapa Calor">
+<img src="#" alt="Reserva 4 Mapa Calor">
+
+#### Nosotros
+<img src="#" alt="Nosotros Mapa Calor">
+
+#### Iniciar Sesión
+<img src="#" alt="Iniciar Sesión Mapa Calor">
+
+#### Perfil
+<img src="#" alt="Perfil Mapa Calor">
+
+### Problemas encontrados
+Como se puede observar en las imágenes del mapa de calor, los resultados parecen estar descuadrados. Eso se debe a las limitaciones de la herramienta, puesto que, al no funcionar con la url del prototipo en figma, nos hemos visto obligados a utilizar imágenes de cada página. Sin embargo, la herramienta no se adapta correctamente a la resolución de las imágenes, por lo que el proceso de calibración y, por ende, el resultado final, han quedado desplazados.
+
+Hemos investigado acerca de alternativas que funcionen con prototipos de figma y, proponemos el uso de [RealEye](https://www.realeye.io/es/). Además de funcionar sobre prototipos figma (utilizando la url), nos permite crear estudios y compartir un enlace a ese estudio, facilitando el acceso de los participantes. Sin embargo, para poder realizar estudios completos, es necesario pagar una licencia (aunque hay una opción educativa).
+
+### Conclusiones
+A pesar de los problemas encontrados con la herramienta, hemos podido observar cómo la atención del usuario estaba dirigida a las zonas que habíamos planificado inicialmente, los CTA, los botones de más contraste, etc.
+Además, la forma de navegar la página (se puede ver en el vídeo resultante pero no hemos podido descargarlo) se corresponde con la esperada, y, según comentarios del propio usuario, le ha parecido natural y fluida.
