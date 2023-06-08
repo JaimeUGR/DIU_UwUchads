@@ -322,15 +322,34 @@ Analizando la situación en detalle, hemos descubierto que todos los usuarios ha
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
-Para analizar más en detalle la propuesta de Artesanía Nazarí, hemos hecho un Usability Report, donde detallamos información sobre los usuarios que han realizado el Test SUS, la metodología seguida y un análisis de Eye Tracking, así como algunas recomendaciones de mejora para aumentar el grado de usabilidad de la aplicación.
+Para analizar más en detalle la propuesta de [Artesanía Nazarí](https://github.com/ArturoAcf/DIU_Uxiono/tree/master), hemos hecho un Usability Report, donde detallamos información sobre los usuarios que han realizado el Test SUS, la metodología seguida y un análisis de Eye Tracking, así como algunas recomendaciones de mejora para aumentar el grado de usabilidad de la aplicación.
 
 [Usability Report](./P4/P4_UsabReport_Artesania_Nazari_doneby_DIU2_UwuChads.pdf)
 
-## Valoración personal 
+## Valoración personal del caso B
 Pensamos que el diseño de la página web es uniforme y atractivo, con colores relacionados con el producto que ofertan. Sin embargo, coincidimos en los problemas que han tenido los usuarios, principalmente con el contraste de algunos textos y con la fuente utilizada, debido al excesivo uso de la negrita. También, consideramos que facilitar la navegación con un seccionamiento más sencillo podría contribuir a una mejora sustancial en la usabilidad.
 
+![Método UX](img/usability-report.png) 5.a Eye Tracking
+Habiendo realizado tests de usabilidad a nuestros usuarios, nos gustaría realizar un estudio sobre el comportamiento de nuestros usuarios utilizando tecnología de trazamiento ocular sobre nuestro prototipo. Para ello, hemos empleado la herramienta [GazeRecorder](https://gazerecorder.com/). Sin embargo, hemos tenido problemas a la hora de utilizarla con nuestro protipo en figma, por lo que nos hemos visto obligados a utilizarla sobre imágenes del prototipo. Debido al funcionamiento de la herramienta, la resolución de las imágenes no se ajustaba correctamente a la calibración ocular, por lo que el resultado en los mapas de calor ha quedado distorsionado.
 
-## Conclusión final / Valoración de las prácticas
+El estudio lo hemos realizado sobre nuestro usuario real Francisco, experto en navegación web y tecnología.
+Mapas de calor de cada página:
+- [Landing](#)
+- [Catálogo](#)
+- [Catálogo Tours](#)
+- [Buscador](#)
+- [Para Ti](#)
+- Reserva
+ - [1](#)
+ - [2](#)
+ - [3](#)
+ - [4](#)
+- [Iniciar Sesión](#)
+- [Perfil](#)
+
+Como herramienta alternativa de Eye Tracking, proponemos el uso de [RealEye](https://www.realeye.io/es/). Además de funcionar sobre prototipos figma (utilizando la url), nos permite crear estudios y compartir un enlace a ese estudio, facilitando el acceso de los participantes. Sin embargo, para poder realizar estudios completos, es necesario pagar una licencia (aunque hay una opción educativa).
+
+!Método UX - Conclusión final / Valoración de las prácticas
 En nuestra opinión, estamos contentos con el resultado obtenido, así como el proceso y la metodología aplicada. En un principio, analizamos otras páginas web, encontrando numerosos defectos que perjudicaban enormemente la experiencia de los usuarios. A continuación, nos propusimos la difícil tarea de hacer un diseño completo, fácil de usar y con un estilo moderno. Finalmente, creemos que hemos conseguido nuestro objetivo, puesto que hemos considerado todas las quejas que teníamos acerca de los competidores así como integrado mejoras gracias al proceso de diseño teniendo en mente la usabilidad y accesibilidad del contenido.
 
 
