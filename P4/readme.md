@@ -27,6 +27,7 @@ Para realizar el cuestionario, le hemos pedido a los usuarios que realicen estas
 - Reservar una actividad
 - Iniciar Sesión / Crear una cuenta
 
+A continuación, el pdf con el test realizado:
 - [PDF](./TestSUS.pdf)
 <img src="TestSUS.png" alt="Test SUS">
 
@@ -65,20 +66,10 @@ La media del valor SUS es de 75. Aquí, encontramos que 2 usuarios han valorado 
 Analizando la situación en detalle, hemos descubierto que todos los usuarios han experimentado problemas muy similares, lo que ha perjudicado la usabilidad del sitio web y, en consecuencia, su SUS Score.
 
 
-
-
-
-
-### Caso A (Conecta Granada)
-
-
-### Caso B (Artesanía Nazarí)
-
-
 ## Usability Report del Caso B (Artesanía Nazarí)
 [Usability Report](./P4_UsabReport_Artesania_Nazari_doneby_DIU2_UwuChads.pdf)
 
-En nuestro Usability Report, hemos detallado el análisis realizado sobre el caso B (Artesanía Nazarí, DIU3 Uxionos), dando recomendaciones para solucionar esos pequeños fallos que han perjudicado la experiencia de los usuarios. Nos gustaría destacar que, a pesar de ello, los usuarios han conseguido realizar su objetivo, reservar un taller y/o comprar productos, pero que, con las mejoras que proponemos, garantizarán que todos los usuarios tengan una experiencia fluida.
+En nuestro Usability Report, hemos detallado el análisis realizado sobre el caso B (Artesanía Nazarí, DIU3 Uxionos), dando recomendaciones para solucionar esos pequeños fallos que han perjudicado la experiencia de los usuarios. Nos gustaría destacar que, a pesar de ello, los usuarios han conseguido realizar su objetivo, reservar un taller y/o comprar productos, pero que, con las mejoras que proponemos, garantizarán que todos los usuarios tengan una experiencia fluida, incrementando así la valoración de percepción de la usabilidad.
 
 ## Conclusiones
 Como conclusión, gracias a la realización del A/B Testing y el Test SUS hemos podido comprobar de forma realista la usabilidad de nuestro sitio web, cuyo resultado ha sido gratificante, puesto que implica que hemos logrado nuestro objetivo, un sitio web accesible para todo tipo de personas, con una experiencia rápida y fluida.
